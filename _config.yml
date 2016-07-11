@@ -54,7 +54,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "OpenStack Day Natal <typeout> 2016"
-eventDate: "September, 2016"
+eventDate: "September 24th, 2016"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
