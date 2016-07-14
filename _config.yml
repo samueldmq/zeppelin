@@ -78,9 +78,9 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: ""
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -89,7 +89,7 @@ eventLocationName: "Conference Hall"
 eventLocationLink: ""
 eventStreetAddress: "Rua Francisco Gurgel, 33, Ponta Negra, Natal, RN, Brasil"
 eventAddressLocality: "Natal"
-eventAddressLocalityRegion: "Lvivska"
+eventAddressLocalityRegion: ""
 eventPostalCode: "59000"
 eventAddressCountry: "Brazil"
 eventStartTime: "2016-09-24T08:00"
