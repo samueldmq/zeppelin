@@ -3,52 +3,52 @@
   name: "Samuel"
   surname: "de Medeiros Queiroz"
   title: "Main Organaizer"
+  company: "Hewlett-Packard Enterprise"
+  bio: "Samuel is a Software Engineer at Hewlett-Packard Enterprise. He has been working with OpenStack since 2013 and is a core reviewer on Keystone, the Identity Service. He likes to help newcomers in the community and to give talks for spreading OpenStack awareness and growing its community in Brazil."
   thumbnailUrl: samuel.jpg
   team: true
-  ribbon: 
-    - {abbr: "Company", title: "HPE"}
-  social: 
-    - {name: "site", link: "http://samueldmq.com/"}
 - 
   id: 1
   name: "Iury Gregory"
   surname: "Melo Ferreira"
   title: "Co-Organaizer"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: "Iury is a Master Student at Universidade Federal de Campina Grande in Brazil. He has experience with Analytics and has been working with OpenStack since 2014.  Most contributions are for Puppet OpenStack Modules."
   thumbnailUrl: iury.jpg
   team: true
-  ribbon: 
-    - {abbr: "Company", title: "Universidade Federal de Campina Grande"}
-#- 
-#  id: 2
-#  name: "Ostap"
-#  surname: "Andrusiv"
-#  title: "Sponsors and Speakers Manager"
-#  thumbnailUrl: OstapAndrusiv.jpg
-#  team: true
-#  ribbon: 
-#    - {abbr: "GDG", title: "Google Developer Group"}
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-#    - {name: "twitter", link: "https://twitter.com/p1f"}
-#    - {name: "site", link: "http://andrusiv.com/"}
-#- 
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  title: "Android Program Committee"
-#  thumbnailUrl: DmytroDanylyk.jpg
-#  subTeam: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#- 
-#  id: 7
-#  name: "Valentyn"
-#  surname: "Shybanov"
-#  title: "Web and Cloud Program Committee"
-#  thumbnailUrl: ValentynShybanov.jpg
-#  subTeam: true
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 2
+  name: "Andrey"
+  surname: "Brito"
+  title: ""
+  company: "UFCG"
+  bio: ""
+  thumbnailUrl: "" # andrey.jpg
+  subTeam: true
+- 
+  id: 3
+  name: "Denise"
+  surname: "Ridolfo"
+  title: ""
+  company: "OpenStack Foundation"
+  bio: ""
+  thumbnailUrl: "" # denise.jpg
+  subTeam: true
+- 
+  id: 4
+  name: "Telles"
+  surname: "Nobrega"
+  title: ""
+  company: "RedHat"
+  bio: ""
+  thumbnailUrl: "" # telles.jpg
+  subTeam: true
+- 
+  id: 5
+  name: "Victoria"
+  surname: "Brasseur"
+  title: ""
+  company: "Hewlett-Packard Enterprise"
+  bio: ""
+  thumbnailUrl: "" # victoria.jpg
+  subTeam: true
