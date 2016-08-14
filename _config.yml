@@ -10,20 +10,20 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 # TODO(iurygregory): update this after have information
-title: "OpenStack Day Natal"
+title: "OpenStack Days Natal"
 email: ""
 description: ""
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 
 # Organizer Info
-# TODO(iurygregory): update this after have information
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "OpenStack Day Natal Group"
+organizerAlternateName: "OpenStack Days Natal"
+organizerDescription: "Group of peoplpe excited about Cloud Computing and OpenStack"
+# "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: ""
+organizerLogo: ""
+organizerLink: ""
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -51,17 +51,17 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "OpenStack Day Natal <typeout> 2016"
-eventDate: "September 24th, 2016"
-heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+heroImage: "hero03.jpg"
+heroTitle: ""
+eventDate: ""
+#heroButtons:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About OpenStack Day Natal"
+aboutTitle: "About OpenStack Days Natal"
 aboutBlock:
- - {title: "Event", image: "", text: "First OpenStack Day event to be held in the northeast of Brazil in Natal!" }
+ - {title: "Event", image: "BADGE_1_NATAL-01.png", text: "First OpenStack Days event to be held in the northeast of Brazil in Natal!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -89,9 +89,9 @@ eventAddressLocality: "Natal"
 eventAddressLocalityRegion: ""
 eventPostalCode: "59000"
 eventAddressCountry: "Brazil"
-eventStartTime: "2016-09-24T08:00"
+eventStartTime: "2016-11-19T08:00"
 eventDoorTime: "07:00"
-eventEndTime: "2016-09-24T20:00"
+eventEndTime: "2016-11-19T20:00"
 eventPlaceCoordinates: "-5.872569, -35.1783299"
 mapCenterCoordinates: "-5.872569, -35.1783299"
 mapMobileCenterCoordinates: "-5.872569, -35.1783299"
