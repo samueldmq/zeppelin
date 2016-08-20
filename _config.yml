@@ -49,9 +49,9 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero03.jpg"
-heroTitle: ""
-eventDate: ""
+heroImage: "hero01.jpeg"
+heroTitle: "OpenStack Days Natal <typeout> 2016"
+eventDate: "November 19th, 2016"
 #heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
