@@ -17,18 +17,16 @@ baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 
 # Organizer Info
-organizerName: "OpenStack Day Natal Group"
+organizerName: "OpenStack Days Natal Group"
 organizerAlternateName: "OpenStack Days Natal"
 organizerDescription: "Group of peoplpe excited about Cloud Computing and OpenStack"
-# "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: ""
 organizerLogo: ""
 organizerLink: ""
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: ""
+twitterAccount: ""
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
