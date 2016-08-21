@@ -18,6 +18,15 @@
   team: true
 - 
   id: 2
+  name: "Matteus Sthefano"
+  surname: "Leite da Silva"
+  title: "Co-Organizer"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: "Matteus is a Undergraduate Student at Universidade Federal de Campina  Grande in Brazil. New at OpenStack world, He has been working with OpenStack since the beginning of year. Currently working in a project that is strongly related to monasca. Most contributions are for Monasca OpenStack Modules."
+  thumbnailUrl: matteus.jpg
+  team: true
+- 
+  id: 10
   name: "Andrey"
   surname: "Brito"
   title: ""
@@ -26,7 +35,7 @@
   thumbnailUrl: "" # andrey.jpg
   subTeam: true
 - 
-  id: 3
+  id: 11
   name: "Denise"
   surname: "Ridolfo"
   title: ""
@@ -35,7 +44,7 @@
   thumbnailUrl: "" # denise.jpg
   subTeam: true
 - 
-  id: 4
+  id: 12
   name: "Telles"
   surname: "Nobrega"
   title: ""
@@ -44,7 +53,7 @@
   thumbnailUrl: "" # telles.jpg
   subTeam: true
 - 
-  id: 5
+  id: 13
   name: "Victoria"
   surname: "Brasseur"
   title: ""
