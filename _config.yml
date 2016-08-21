@@ -100,8 +100,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Praiamar Hotel & Convention"
+venueFeatures: ["Best location in Ponta Negra Beach", "A huge and confortable auditorium", "Great leisure space"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

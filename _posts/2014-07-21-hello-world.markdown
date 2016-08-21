@@ -16,7 +16,7 @@ So should you also be excited? Well yes... and here's why!
 * **Attendance**: we're expecting over 350 attendees
 * **Topic**: more than 48 hours of pure Google technologies 
 * **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
-* **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
+* **Venue**: Praiamar Hotel & Convention - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
 * **Speakers**: we're in the process of finalising the list of speakers
 
 but we've already secured a first batch of experts:
