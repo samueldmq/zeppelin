@@ -9,3 +9,5 @@ isStaticPost: true
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+
+Please read OpenStack <a href="https://www.openstack.org/legal/community-code-of-conduct/">Code Of Conduct</a>
