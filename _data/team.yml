@@ -54,12 +54,12 @@
   subTeam: true
 -
   id: 12
-  name: "Telles"
-  surname: "Nobrega"
+  name: "Telles Mota"
+  surname: "Vidal Nobrega"
   title: ""
   company: "RedHat"
-  bio: ""
-  thumbnailUrl: "" # telles.jpg
+  bio: "Telles is software engineer at Red Hat. He has been working on OpenStack since 2013, focusing on Sahara (Data Processing as a Service) component where he is a core contributor."
+  thumbnailUrl: telles.jpg
   subTeam: true
 -
   id: 13
