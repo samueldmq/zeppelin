@@ -1,4 +1,4 @@
-- 
+-
   id: 0
   name: "Samuel"
   surname: "de Medeiros Queiroz"
@@ -7,7 +7,7 @@
   bio: "Samuel is a Software Engineer at Hewlett-Packard Enterprise. He has been working with OpenStack since 2013 and is a core reviewer on Keystone, the Identity Service. He likes to help newcomers in the community and to give talks for spreading OpenStack awareness and growing its community in Brazil."
   thumbnailUrl: samuel.jpg
   team: true
-- 
+-
   id: 1
   name: "Iury Gregory"
   surname: "Melo Ferreira"
@@ -16,25 +16,25 @@
   bio: "Iury is a Master Student at Universidade Federal de Campina Grande in Brazil. He has experience with Analytics and has been working with OpenStack since 2014.  Most contributions are for Puppet OpenStack Modules."
   thumbnailUrl: iury.jpg
   team: true
-- 
+-
   id: 2
   name: "Matteus Sthefano"
   surname: "Leite da Silva"
-  title: "Co-Organizer"
+  title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
   bio: "Matteus is a Undergraduate Student at Universidade Federal de Campina  Grande in Brazil. New at OpenStack world, He has been working with OpenStack since the beginning of year. Currently working in a project that is strongly related to monasca. Most contributions are for Monasca OpenStack Modules."
   thumbnailUrl: matteus.jpg
   team: true
-- 
+-
   id: 3
   name: "Igor Natanael"
   surname: "Sousa Ataide"
-  title: "Co-Organizer"
+  title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
   bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
   thumbnailUrl: igor.jpg
   team: true
-- 
+-
   id: 10
   name: "Andrey"
   surname: "Brito"
@@ -43,7 +43,7 @@
   bio: ""
   thumbnailUrl: "" # andrey.jpg
   subTeam: true
-- 
+-
   id: 11
   name: "Denise"
   surname: "Ridolfo"
@@ -52,7 +52,7 @@
   bio: ""
   thumbnailUrl: "" # denise.jpg
   subTeam: true
-- 
+-
   id: 12
   name: "Telles"
   surname: "Nobrega"
@@ -61,7 +61,7 @@
   bio: ""
   thumbnailUrl: "" # telles.jpg
   subTeam: true
-- 
+-
   id: 13
   name: "Victoria"
   surname: "Brasseur"

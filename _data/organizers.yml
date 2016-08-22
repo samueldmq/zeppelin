@@ -1,10 +1,16 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "", description: "", link: "", imageUrl: ""}
+      - {name: "Samuel de Medeiros Queiroz", description: "", link: "", imageUrl: "samuel.jpg"}
 -
-  group: "Co-organizers"
+  group: "Co-organizer"
   elements:
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "", description: "", link: "", imageUrl: ""}
+    - {name: "Iury Gregory Melo Ferreira", description: "", link: "", imageUrl: "iury.jpg"}
+-
+  group: "Staff"
+  elements:
+    - {name: "Matteus Sthefano Leite da Silva", description: "", link: "", imageUrl: "matteus.jpg"}
+-
+  group: "Staff"
+  elements:
+    - {name: "Igor Natanael Sousa Ataide", description: "", link: "", imageUrl: "igor.jpg"}
