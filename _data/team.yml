@@ -26,6 +26,15 @@
   thumbnailUrl: matteus.jpg
   team: true
 - 
+  id: 3
+  name: "Igor Natanael"
+  surname: "Sousa Ataide"
+  title: "Co-Organizer"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
+  thumbnailUrl: igor.jpg
+  team: true
+- 
   id: 10
   name: "Andrey"
   surname: "Brito"
