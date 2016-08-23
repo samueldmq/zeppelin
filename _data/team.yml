@@ -36,12 +36,12 @@
   team: true
 -
   id: 10
-  name: "Andrey"
-  surname: "Brito"
+  name: "Andrey Elisio"
+  surname: "Monteiro Brito"
   title: ""
   company: "UFCG"
-  bio: ""
-  thumbnailUrl: "" # andrey.jpg
+  bio: "Andrey is a professor at Universidade Federal de Campina Grande. His main interests are robustness and scalability aspects of distributed systems. He has been working with OpenStack since 2013, coordinating R&D teams that contributed to several OpenStack projects, including Keystone, Ironic, Sahara and Monasca."
+  thumbnailUrl: andrey.jpg
   subTeam: true
 -
   id: 11
