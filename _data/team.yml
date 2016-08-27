@@ -36,12 +36,14 @@
   team: true
 -
   id: 10
-  name: "Andrey Elisio"
-  surname: "Monteiro Brito"
+  name: "VM (Vicky)"
+  surname: "Brasseur"
   title: ""
-  company: "UFCG"
-  bio: "Andrey is a professor at Universidade Federal de Campina Grande. His main interests are robustness and scalability aspects of distributed systems. He has been working with OpenStack since 2013, coordinating R&D teams that contributed to several OpenStack projects, including Keystone, Ironic, Sahara and Monasca."
-  thumbnailUrl: andrey.jpg
+  company: "Hewlett-Packard Enterprise"
+  bio: "In VM (aka Vicky)'s nearly 20 years in the tech industry she has been an analyst, programmer, product manager, software engineering manager, director of software engineering, and C-level technical business consultant. She currently is proud to be a Senior Engineering Manager at Hewlett Packard Enterprise, working in service to a team 100% dedicated to open source development. Vicky is the winner of the Perl White Camel Award (2014) and the O'Reilly Open Source Award (2016).
+
+Vicky occasionally blogs at {anonymous => 'hash'};, often writes and is a moderator for opensource.com, and frequently tweets at @vmbrasseur."
+  thumbnailUrl: vicky.png
   subTeam: true
 -
   id: 11
@@ -49,24 +51,28 @@
   surname: "Ridolfo"
   title: ""
   company: "OpenStack Foundation"
-  bio: ""
-  thumbnailUrl: "" # denise.jpg
+  bio: "Denise Ridolfo works with the OpenStack Foundation events team and is responsible for managing its presence and participation at various global industry events. She is also responsible for managing the OpenStack Day events around the world and works closely with the community and volunteers organizing these events."
+  thumbnailUrl: denise.jpg
   subTeam: true
 -
   id: 12
+  name: "Andrey"
+  surname: "Brito"
+  title: ""
+  company: "UFCG"
+  bio: "Andrey is a professor at Universidade Federal de Campina Grande. His
+main interests are robustness and scalability aspects of distributed systems.
+He has been working with OpenStack since 2013, coordinating R&D teams that
+contributed to several OpenStack projects, including Keystone, Ironic, Sahara
+and Monasca."
+  thumbnailUrl: andrey.jpg
+  subTeam: true
+-
+  id: 13
   name: "Telles Mota"
   surname: "Vidal Nobrega"
   title: ""
   company: "RedHat"
   bio: "Telles is software engineer at Red Hat. He has been working on OpenStack since 2013, focusing on Sahara (Data Processing as a Service) component where he is a core contributor."
   thumbnailUrl: telles.jpg
-  subTeam: true
--
-  id: 13
-  name: "Victoria"
-  surname: "Brasseur"
-  title: ""
-  company: "Hewlett-Packard Enterprise"
-  bio: ""
-  thumbnailUrl: "" # victoria.jpg
   subTeam: true
