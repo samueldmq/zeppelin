@@ -1,8 +1,8 @@
 -
-  group: "Staff"
+  group: ""
   elements:
     - {name: "Matteus Sthefano Leite da Silva", description: "", link: "", imageUrl: "matteus.png"}
 -
-  group: "Staff"
+  group: ""
   elements:
     - {name: "Igor Natanael Sousa Ataide", description: "", link: "", imageUrl: "igor.png"}
