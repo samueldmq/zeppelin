@@ -23,11 +23,9 @@
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-6">
                     <h5>{{ organizer.group }} </h5>
-                    {% for element in organizer.elements %}
+                    {% for element in advisor.elements %}
                     <a href="{{ site.baseurl }}/team/" target="_blank">
-                        <img class="img-circle" style="width: 25%;" src="{{
-                        site.baseurl }}/img/organizers/{{ element.imageUrl }}"
-                        alt="{{ element.name }}">
+                        <img class="img-circle" style="width: 50%;" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" alt="{{ element.name }}">
                     </a>
                     {% endfor %}
                 </div>

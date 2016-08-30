@@ -1,8 +1,8 @@
 -
   group: "Main organizer"
   elements:
-      - {name: "Samuel de Medeiros Queiroz", description: "", link: "", imageUrl: "samuel.jpg"}
+      - {name: "Samuel de Medeiros Queiroz", description: "", link: "", imageUrl: "samuel.png"}
 -
   group: "Co-organizer"
   elements:
-    - {name: "Iury Gregory Melo Ferreira", description: "", link: "", imageUrl: "iury.jpg"}
+    - {name: "Iury Gregory Melo Ferreira", description: "", link: "", imageUrl: "iury.png"}

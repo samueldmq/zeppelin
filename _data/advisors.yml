@@ -5,12 +5,12 @@
 -
   group: ""
   elements:
-    - {name: "Denise Ridolfo", description: "", link: "", imageUrl: "denise.jpg"}
-      #-
-      #  group: ""
-      #  elements:
-      #    - {name: "Andrey Elisio Monteiro Brito", description: "", link: "", imageUrl: "andrey.png"}
+    - {name: "Denise Ridolfo", description: "", link: "", imageUrl: "denise.png"}
 -
   group: ""
   elements:
-    - {name: "Telles Mota Vidal Nobrega", description: "", link: "", imageUrl: "telles.jpg"}
+    - {name: "Andrey Elisio Monteiro Brito", description: "", link: "", imageUrl: "andrey.png"}
+-
+  group: ""
+  elements:
+    - {name: "Telles Mota Vidal Nobrega", description: "", link: "", imageUrl: "telles.png"}

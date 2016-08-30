@@ -52,9 +52,9 @@ rightNavigationButtons:
 heroImage: "hero01.jpeg"
 heroTitle: "OpenStack Days Natal <typeout> 2016"
 eventDate: "November 19th, 2016"
-#heroButtons:
+heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About OpenStack Days Natal"
@@ -112,6 +112,8 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
+advisoryTitle: "Advisory Group"
+staffTitle: "Staff Group"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -129,7 +131,7 @@ ticketsOffers:
   price: "25"
   priceCurrency: "BRL"
   ticketsNumber: "150"
-  buyButtonLink: ""
+  buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
   buyButtonText: "Buy Now"
   ticketContentList: [] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2016-11-19T09:00"
