@@ -10,13 +10,45 @@
                     <h5>{{ organizer.group }} </h5>
                     {% for element in organizer.elements %}
                     <a href="{{ site.baseurl }}/team/" target="_blank">
-                        <img class="img-circle" style="width: 50%;" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" alt="{{ element.name }}">
+                        <img class="img-circle" style="width: 25%;" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" alt="{{ element.name }}">
                     </a>
                     {% endfor %}
                 </div>
                 {% endfor %}
             </div>
 
+            <h3>{{ site.advisoryTitle }}</h3>
+            <div class="row about-details">
+                {% for advisor in site.data.advisors %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">
+                    <h5>{{ organizer.group }} </h5>
+                    {% for element in organizer.elements %}
+                    <a href="{{ site.baseurl }}/team/" target="_blank">
+                        <img class="img-circle" style="width: 25%;" src="{{
+                        site.baseurl }}/img/organizers/{{ element.imageUrl }}"
+                        alt="{{ element.name }}">
+                    </a>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
+
+            <h3>{{ site.staffTitle }}</h3>
+            <div class="row about-details">
+                {% for staff in site.data.staff %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">
+                    <h5>{{ staff.group }} </h5>
+                    {% for element in staff.elements %}
+                    <a href="{{ site.baseurl }}/team/" target="_blank">
+                        <img class="img-circle" style="width: 25%;" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}"
+                        alt="{{ element.name }}">
+                    </a>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
             <h3>{{ site.partnersTitle }}</h3>
             <!--
             {% for partner in site.data.partners %}
