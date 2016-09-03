@@ -27,8 +27,8 @@ organizerLink: ""
 # Head
 metaKeywords: ""
 twitterAccount: ""
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcTwitter: "/img/sharing-twitter.png"
+socialImageSrcFacebook: "/img/sharing-facebook.png"
 
 # Documents
 c4pUrl: ""
