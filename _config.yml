@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "OpenStack Days Natal"
 email: ""
 description: ""
-baseurl: "/zeppelin"
-url: "http://samueldmq.com"
+baseurl: ""
+url: "http://natal.openstackdays.com.br"
 
 # Organizer Info
 organizerName: "OpenStack Days Natal Group"
