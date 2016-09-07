@@ -25,7 +25,7 @@ __Cases of Study / Sharing Experiences__
 
 __Adoption Plans__
 
-#### Please submit your proposals [here]().
+#### Please submit your proposals [here](https://goo.gl/forms/NxnHIPfpFHidOEb92).
 __Deadline__ is October 20, 2016.
 
 __Please note:__ There is no guarantee that a submission will be put onto the schedule!<br/>

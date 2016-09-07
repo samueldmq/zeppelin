@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 # TODO(iurygregory): update this after have information
 title: "OpenStack Days Natal"
-email: ""
+email: "openstackdaysnatal@gmail.com."
 description: ""
 baseurl: ""
 url: "http://natal.openstackdays.com.br"
@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "", text: "Become a speaker"}
 
