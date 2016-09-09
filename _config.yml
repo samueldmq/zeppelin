@@ -148,7 +148,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "", text: ""}
+   - {link: "mailto:openstackdaysnatal@gmail.com", text: "openstackdaysnatal@gmail.com"}
  -
   title: "FAQ"
   links:
