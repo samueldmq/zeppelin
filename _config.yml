@@ -20,7 +20,7 @@ url: "http://natal.openstackdays.com.br"
 organizerName: "OpenStack Days Natal Group"
 organizerAlternateName: "OpenStack Days Natal"
 organizerDescription: "Group of peoplpe excited about Cloud Computing and OpenStack"
-organizerEmail: ""
+organizerEmail: "openstackdaysnatal@gmail.com"
 organizerLogo: ""
 organizerLink: ""
 
@@ -37,27 +37,26 @@ c4sponsorsUrl: "/assets/SponsorshipProspectus_Enterprise.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Início"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/programacao/", text: "Programação"}
+ - {permalink: "/palestrantes/", text: "Palestrantes"}
+ - {permalink: "/equipe/", text: "Equipe"}
+ - {permalink: "/local/", text: "Local"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Seja um Palestrante!"}
 rightNavigationButtons:
- - {link: "", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Seja um Palestrante!"}
 
 # Hero Block
 heroImage: "hero01.jpeg"
 heroTitle: "OpenStack Days Natal <typeout> 2016"
-eventDate: "November 19th, 2016"
+eventDate: "19 de Novembro 2016"
 heroButtons:
-# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913", text: "Inscrições"}
 
 # About Block
-aboutTitle: "About OpenStack Days Natal"
+aboutTitle: "Sobre OpenStack Days Natal 2016"
 aboutBlock:
  - {title: "Event", image: "BADGE_1_NATAL-01.png", text: "First OpenStack Days event to be held in the northeast of Brazil in Natal!" }
 
@@ -70,16 +69,16 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: ""
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Palestrantes"
+rockstarSpeakersButtonText: "Veja todos os palestrantes!"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Localização"
 eventLocationName: ""
 eventLocationLink: ""
 eventStreetAddress: "Rua Francisco Gurgel, 33, Ponta Negra, Natal, RN, Brasil"
@@ -110,11 +109,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-advisoryTitle: "Advisory Group"
-staffTitle: "Staff Group"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um patrocinador!"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -123,16 +120,16 @@ partnersC4sponsorsButton: "Become a sponsor"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes.//\nAccommodation is NOT included in the ticket price."
+ticketsTitle: "Tabela de Preço"
+ticketsInfo: "Os ingressos garantem acesso a Tickets grant access to all conference sections, coffee brakes.//\nAccommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "25"
-  priceCurrency: "BRL"
+  name: "Lote Único"
+  price: "R$ 25"
+  priceCurrency: ""
   ticketsNumber: "150"
   buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Compre agora!"
   ticketContentList: [] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2016-11-19T09:00"
   validThrough: "2016-11-19T18:15"
@@ -170,8 +167,8 @@ teamBlockTitle: "About us"
 aboutUs: ""
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
+findWayTitle: "Como chegar ao Evento"
+findWayDistance: "Distância"
 findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
@@ -188,20 +185,20 @@ directionDetailsCards:
  - {title: "From the Airport", information: '34km by car. Less than 50 minutes.'}
  - {title: "Public Transit", information: '14 minutes from Arena das Dunas Stadium by car. 13 minutes from Via Mar Shopping
  walk. 22 minutes by car from the biggest cashew tree in the world'}
- - {title: "Hotels", information: 'The event hotel will be Praiamar Natal Hotel&Convention. More information you can find <a href="http://www.praiamarnatal.com.br/">here</a>.'}
+ - {title: "Hotel", information: 'O Hotel do evento será o Praiamar Natal Hotel&Convention. Para mais informações acesse o site do <a href="http://www.praiamarnatal.com.br/">Hotel</a>.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Perguntas?"
   subCards:
    -
-    title: "Hotels"
+    title: "Hotel"
     links:
      - {link: "http://www.praiamarnatal.com.br/", text: "PraiamarNatal"}
    -
-    title: "Registration"
+    title: "Reservas"
     links:
      - {link: "http://www.praiamarnatal.com.br/", text: "PraiamarNatal"}
    -
-    title: "Attendance Details"
+    title: "Detalhes"
     links:
      - {link: "http://www.praiamarnatal.com.br/", text: "PraiamarNatal"}
