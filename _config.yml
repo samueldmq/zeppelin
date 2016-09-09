@@ -65,7 +65,11 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre OpenStack Days Natal 2016"
 aboutBlock:
- - {title: "Event", image: "BADGE_1_NATAL-01.png", text: "First OpenStack Days event to be held in the northeast of Brazil in Natal" }
+ - {title: "", image: "BADGE_1_NATAL-01.png", text: "O primeiro evento
+   OpenStack Days a ser realizado na região Nordeste do Brasil na cidade de
+Natal no Rio Grande do Norte! Não perca esta grande oportunidade para
+conhecer líderes da indústria, usuários da comunidade OpenStack, compartilhar
+conhecimentos e discutir sobre como OpenStack pode ser útil!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

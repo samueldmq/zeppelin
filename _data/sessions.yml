@@ -8,7 +8,7 @@
   speakers: []
 -
   id: 003
-  title: "Talk"
+  title: "Palestra"
   description: ""
   speakers: []
 -
@@ -16,7 +16,7 @@
   speakers: []
 -
   id: 005
-  title: "Talk"
+  title: "Palestra"
   description: ""
   speakers: []
 -
@@ -24,11 +24,11 @@
   speakers: []
 -
    id: 007
-   title: "Lunch"
+   title: "Almoço"
    service: true
 -
   id: 009
-  title: "Talk"
+  title: "Palestra"
   description: ""
   speakers: []
 -
@@ -36,7 +36,7 @@
   speakers: []
 -
   id: 011
-  title: "Talk"
+  title: "Palestra"
   description: ""
   speakers: []
 -
@@ -44,7 +44,7 @@
   speakers: []
 -
   id: 013
-  title: "Talk"
+  title: "Palestra"
   description: ""
   speakers: []
 -
@@ -60,14 +60,14 @@
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 015
-  title: "Break: Snack and networking"
+  title: "Lanche e Networking"
   service: true
 -
   id: 016
   speakers: []
 -
   id: 017
-  title: "Talk"
+  title: "Palestra"
   description: ""
   speakers: []
 -
@@ -75,7 +75,7 @@
   speakers: []
 -
   id: 019
-  title: "Talk"
+  title: "Palestra"
   description: ""
   speakers: []
 -
@@ -83,5 +83,5 @@
   speakers: []
 -
   id: 021
-  title: "Acknowledgments & Evaluation forms"
+  title: "Agradecimentos & Formulários de Avaliação"
   service: true

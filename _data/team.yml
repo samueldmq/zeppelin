@@ -5,7 +5,7 @@
   title: "Main Organizer"
   company: "Hewlett-Packard Enterprise"
   bio: "Samuel is a Software Engineer at Hewlett-Packard Enterprise. He has been working with OpenStack since 2013 and is a core reviewer on Keystone, the Identity Service. He likes to help newcomers in the community and to give talks for spreading OpenStack awareness and growing its community in Brazil."
-  thumbnailUrl: samuel.jpg
+  thumbnailUrl: samuel.png
   team: true
 -
   id: 1
@@ -14,7 +14,7 @@
   title: "Co-Organizer"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
   bio: "Iury is a Master Student at Universidade Federal de Campina Grande in Brazil. He has experience with Analytics and has been working with OpenStack since 2014.  Most contributions are for Puppet OpenStack Modules."
-  thumbnailUrl: iury.jpg
+  thumbnailUrl: iury.png
   team: true
 -
   id: 2
@@ -23,7 +23,7 @@
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
   bio: "Matteus is a Undergraduate Student at Universidade Federal de Campina  Grande in Brazil. New at OpenStack world, He has been working with OpenStack since the beginning of year. Currently working in a project that is strongly related to monasca. Most contributions are for Monasca OpenStack Modules."
-  thumbnailUrl: matteus.jpg
+  thumbnailUrl: matteus.png
   team: true
 -
   id: 3
@@ -32,7 +32,7 @@
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
   bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
-  thumbnailUrl: igor.jpg
+  thumbnailUrl: igor.png
   team: true
 -
   id: 10
@@ -52,7 +52,7 @@ Vicky occasionally blogs at {anonymous => 'hash'};, often writes and is a modera
   title: ""
   company: "OpenStack Foundation"
   bio: "Denise Ridolfo works with the OpenStack Foundation events team and is responsible for managing its presence and participation at various global industry events. She is also responsible for managing the OpenStack Day events around the world and works closely with the community and volunteers organizing these events."
-  thumbnailUrl: denise.jpg
+  thumbnailUrl: denise.png
   subTeam: true
 -
   id: 12
@@ -65,7 +65,7 @@ main interests are robustness and scalability aspects of distributed systems.
 He has been working with OpenStack since 2013, coordinating R&D teams that
 contributed to several OpenStack projects, including Keystone, Ironic, Sahara
 and Monasca."
-  thumbnailUrl: andrey.jpg
+  thumbnailUrl: andrey.png
   subTeam: true
 -
   id: 13
@@ -74,5 +74,5 @@ and Monasca."
   title: ""
   company: "RedHat"
   bio: "Telles is software engineer at Red Hat. He has been working on OpenStack since 2013, focusing on Sahara (Data Processing as a Service) component where he is a core contributor."
-  thumbnailUrl: telles.jpg
+  thumbnailUrl: telles.png
   subTeam: true
