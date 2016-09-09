@@ -44,21 +44,22 @@ navigationLinks:
  - {permalink: "/equipe/", text: "Equipe"}
  - {permalink: "/local/", text: "Local"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Seja um Palestrante!"}
+ - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Seja um Palestrante"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Seja um Palestrante!"}
+ - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Seja um Palestrante"}
 
 # Hero Block
 heroImage: "hero01.jpeg"
 heroTitle: "OpenStack Days Natal <typeout> 2016"
 eventDate: "19 de Novembro 2016"
+typeoutTextValues: '"", "Computação em Nuvem", ""'
 heroButtons:
  - {link: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913", text: "Inscrições"}
 
 # About Block
 aboutTitle: "Sobre OpenStack Days Natal 2016"
 aboutBlock:
- - {title: "Event", image: "BADGE_1_NATAL-01.png", text: "First OpenStack Days event to be held in the northeast of Brazil in Natal!" }
+ - {title: "Event", image: "BADGE_1_NATAL-01.png", text: "First OpenStack Days event to be held in the northeast of Brazil in Natal" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -75,7 +76,7 @@ latestNewsTitle: "Últimas notícias"
 rockstarSpeakersImage: ""
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Palestrantes"
-rockstarSpeakersButtonText: "Veja todos os palestrantes!"
+rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -111,13 +112,13 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Parceiros"
-partnersC4sponsorsButton: "Seja um patrocinador!"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
 # subscribeTitle: "Subscribe for updates"
 # subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned"
 
 # Tickets Block
 ticketsTitle: "Tabela de Preço"
@@ -129,8 +130,8 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: "150"
   buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
-  buyButtonText: "Compre agora!"
-  ticketContentList: [] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonText: "Compre agora"
+  ticketContentList: ["Garanta já o seu ingresso"] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2016-11-19T09:00"
   validThrough: "2016-11-19T18:15"
 
