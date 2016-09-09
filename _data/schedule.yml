@@ -1,9 +1,9 @@
 -
   date: "2016-11-19"
-  dateReadable: "November 19"
+  dateReadable: "19 de Novembro 19"
   tracks:
-    - {title: "Event", color: "#90be4e"}
-    - {title: "Speakers", color: "#03a9f4"}
+    - {title: "Palestras", color: "#90be4e"}
+    - {title: "Palestrantes", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:00",
