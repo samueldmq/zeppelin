@@ -111,7 +111,8 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Praiamar Hotel & Convention"
-venueFeatures: ["Best location in Ponta Negra Beach", "A huge and confortable auditorium", "Great leisure space"]
+venueFeatures: ["Melhor localização na Praia de Ponta Negra", "Auditório
+confortável", "Possui ótimo espaço para lazer"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -147,9 +148,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "", icon: "twitter"}
+ - {link: "https://twitter.com/openstacknatal", icon: "twitter"}
  - {link: "", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
@@ -163,7 +163,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Latest news"

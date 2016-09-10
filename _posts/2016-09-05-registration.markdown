@@ -13,4 +13,4 @@ O evento será realizado em 19 de novembro na cidade de Natal no Rio Grande do
 Norte, Brasil. Vai perder esta chance? Garanta seu ingresso clicando
 [aqui](https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913)
 
-__Atenção__ os ingressos são limitados até enquanto durar os estoques.
+__Atenção__ os ingressos estão limitados à 100 unidades.
