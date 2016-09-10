@@ -148,16 +148,11 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/openstacknatal", icon: "twitter"}
- - {link: "", icon: "facebook"}
+   - {link: "https://twitter.com/openstacknatal", icon: "twitter"}
+   - {link: "http://fb.me/OpenStackDaysNatal", icon: "facebook"}
 footerBlocks:
  -
-  title: "Links"
-  links:
-   - {link: "", text: ""}
-   - {link: "", text: ""}
- -
-  title: "Contacts"
+  title: "Contato"
   links:
    - {link: "mailto:openstackdaysnatal@gmail.com", text: "openstackdaysnatal@gmail.com"}
  -
@@ -166,15 +161,16 @@ footerBlocks:
    - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas notícias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "OpenStackDaysNatal"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+# Colocar texto aqui "Quem somos?" "..."
+teamBlockTitle: ""
 aboutUs: ""
 
 # Logistics Find Way Block
@@ -191,11 +187,10 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Natal-RN"
+directionDetailsTitle: "Natal-RN"
 directionDetailsCards:
- - {title: "From the Airport", information: '34km by car. Less than 50 minutes.'}
- - {title: "Public Transit", information: '14 minutes from Arena das Dunas Stadium by car. 13 minutes from Via Mar Shopping
- walk. 22 minutes by car from the biggest cashew tree in the world'}
+ - {title: "Aeroporto", information: '34km de distância, menos de 50 minutos de carro.'}
+ - {title: "Trânsito", information: '14 minutos de carro do Estádio Arena das Dunas. 13 minutos a pé do Via Mar Shopping. 22 minutos de carro do maior cajueiro do mundo.'}
  - {title: "Hotel", information: 'O Hotel do evento será o Praiamar Natal Hotel&Convention. Para mais informações acesse o site do <a href="http://www.praiamarnatal.com.br/">Hotel</a>.'}
 directionDetailsWideCards:
  -
