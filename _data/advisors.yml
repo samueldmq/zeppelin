@@ -1,16 +1,16 @@
 -
-  group: ""
+  group: "Advisory Group"
   elements:
     - {name: "VM (Vicky) Brasseur", description: "", link: "", imageUrl: "vicky.png"}
 -
-  group: ""
+  group: "Advisory Group"
   elements:
     - {name: "Denise Ridolfo", description: "", link: "", imageUrl: "denise.png"}
 -
-  group: ""
+  group: "Advisory Group"
   elements:
     - {name: "Andrey Elisio Monteiro Brito", description: "", link: "", imageUrl: "andrey.png"}
 -
-  group: ""
+  group: "Advisory Group"
   elements:
     - {name: "Telles Mota Vidal Nobrega", description: "", link: "", imageUrl: "telles.png"}

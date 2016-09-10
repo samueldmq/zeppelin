@@ -13,7 +13,9 @@
   surname: "Melo Ferreira"
   title: "Co-Organizer"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: "Iury is a Master Student at Universidade Federal de Campina Grande in Brazil. He has experience with Analytics and has been working with OpenStack since 2014.  Most contributions are for Puppet OpenStack Modules."
+  bio: "Iury é um estudante de Mestrado na UFCG. Ele tem trabalhado com
+OpenStack desde 2014. Suas contribuições no OpenStack são focadas nos módulos puppet dos diversos componentes existentes no OpenStack."
+#  bio: "Iury is a Master Student at Universidade Federal de Campina Grande in Brazil. He has experience with Analytics and has been working with OpenStack since 2014.  Most contributions are for Puppet OpenStack Modules."
   thumbnailUrl: iury.png
   team: true
 -
@@ -22,7 +24,8 @@
   surname: "Leite da Silva"
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: "Matteus is a Undergraduate Student at Universidade Federal de Campina  Grande in Brazil. New at OpenStack world, He has been working with OpenStack since the beginning of year. Currently working in a project that is strongly related to monasca. Most contributions are for Monasca OpenStack Modules."
+  bio: "Matteus é um estudante de Graduação de Ciência da Computação na UFCG. Novo no mundo OpenStack, ele tem trabalhado desde o ínicio do ano com projetos que se relacionam com o Monasca."
+#  bio: "Matteus is a Undergraduate Student at Universidade Federal de Campina  Grande in Brazil. New at OpenStack world, He has been working with OpenStack since the beginning of year. Currently working in a project that is strongly related to monasca. Most contributions are for Monasca OpenStack Modules."
   thumbnailUrl: matteus.png
   team: true
 -
@@ -31,7 +34,8 @@
   surname: "Sousa Ataide"
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
+  bio: "Igor é um estudante de Gradução que está no 7º período do curso de Ciência da Computação na UFCG, ele é um grande entusiasta do Software Livre. Iniciou seu trabalho com OpenStack desde 2015 e atualmente trabalha contribuindo para o serviço de monitoramento do OpenStack (Monasca)."
+#  bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
   thumbnailUrl: igor.png
   team: true
 -
@@ -60,11 +64,12 @@ Vicky occasionally blogs at {anonymous => 'hash'};, often writes and is a modera
   surname: "Brito"
   title: ""
   company: "UFCG"
-  bio: "Andrey is a professor at Universidade Federal de Campina Grande. His
-main interests are robustness and scalability aspects of distributed systems.
-He has been working with OpenStack since 2013, coordinating R&D teams that
-contributed to several OpenStack projects, including Keystone, Ironic, Sahara
-and Monasca."
+  bio: "Andrey é professor na Universidade Federal de Campina Grande. Seus principais interesses são os aspectos de robustez e escalabilidade de sistemas distribuídos. Ele tem trabalhado com OpenStack desde 2013, coordenando times de R&D que contribuiram para diversos projetos do OpenStack, incluindo Keystone, Ironic, Sahara e Monasca"
+#  bio: "Andrey is a professor at Universidade Federal de Campina Grande. His
+#main interests are robustness and scalability aspects of distributed systems.
+#He has been working with OpenStack since 2013, coordinating R&D teams that
+#contributed to several OpenStack projects, including Keystone, Ironic, Sahara
+#and Monasca."
   thumbnailUrl: andrey.png
   subTeam: true
 -
@@ -73,6 +78,7 @@ and Monasca."
   surname: "Vidal Nobrega"
   title: ""
   company: "RedHat"
-  bio: "Telles is software engineer at Red Hat. He has been working on OpenStack since 2013, focusing on Sahara (Data Processing as a Service) component where he is a core contributor."
+  bio: "Telles é um Engenheiro de Software na Red Hat. Ele tem trabalhado com OpenStack desde 2013 focando no componente Sahara(Data Procressing as a Service) onde ele é core contributor."
+#  bio: "Telles is software engineer at Red Hat. He has been working on OpenStack since 2013, focusing on Sahara (Data Processing as a Service) component where he is a core contributor."
   thumbnailUrl: telles.png
   subTeam: true
