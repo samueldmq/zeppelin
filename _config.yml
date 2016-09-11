@@ -105,7 +105,7 @@ mapCenterCoordinates: "-5.872569, -35.1783299"
 mapMobileCenterCoordinates: "-5.872569, -35.1783299"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Local"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
