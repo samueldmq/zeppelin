@@ -42,7 +42,7 @@ OpenStack desde 2014. Suas contribuições no OpenStack são focadas nos módulo
   id: 10
   name: "VM (Vicky)"
   surname: "Brasseur"
-  title: ""
+  title: "Advisory Group"
   company: "Hewlett-Packard Enterprise"
   bio: "In VM (aka Vicky)'s nearly 20 years in the tech industry she has been an analyst, programmer, product manager, software engineering manager, director of software engineering, and C-level technical business consultant. She currently is proud to be a Senior Engineering Manager at Hewlett Packard Enterprise, working in service to a team 100% dedicated to open source development. Vicky is the winner of the Perl White Camel Award (2014) and the O'Reilly Open Source Award (2016).
 
@@ -53,7 +53,7 @@ Vicky occasionally blogs at {anonymous => 'hash'};, often writes and is a modera
   id: 11
   name: "Denise"
   surname: "Ridolfo"
-  title: ""
+  title: "Advisory Group"
   company: "OpenStack Foundation"
   bio: "Denise Ridolfo works with the OpenStack Foundation events team and is responsible for managing its presence and participation at various global industry events. She is also responsible for managing the OpenStack Day events around the world and works closely with the community and volunteers organizing these events."
   thumbnailUrl: denise.png
@@ -62,7 +62,7 @@ Vicky occasionally blogs at {anonymous => 'hash'};, often writes and is a modera
   id: 12
   name: "Andrey"
   surname: "Brito"
-  title: ""
+  title: "Advisory Group"
   company: "UFCG"
   bio: "Andrey é professor na Universidade Federal de Campina Grande. Seus principais interesses são os aspectos de robustez e escalabilidade de sistemas distribuídos. Ele tem trabalhado com OpenStack desde 2013, coordenando times de R&D que contribuiram para diversos projetos do OpenStack, incluindo Keystone, Ironic, Sahara e Monasca"
 #  bio: "Andrey is a professor at Universidade Federal de Campina Grande. His
@@ -76,7 +76,7 @@ Vicky occasionally blogs at {anonymous => 'hash'};, often writes and is a modera
   id: 13
   name: "Telles Mota"
   surname: "Vidal Nobrega"
-  title: ""
+  title: "Advisory Group"
   company: "RedHat"
   bio: "Telles é um Engenheiro de Software na Red Hat. Ele tem trabalhado com OpenStack desde 2013 focando no componente Sahara(Data Procressing as a Service) onde ele é core contributor."
 #  bio: "Telles is software engineer at Red Hat. He has been working on OpenStack since 2013, focusing on Sahara (Data Processing as a Service) component where he is a core contributor."
