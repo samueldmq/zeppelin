@@ -7,10 +7,6 @@
   elements:
     - {name: "Denise Ridolfo", description: "", link: "", imageUrl: "denise.png"}
 -
-  group: "Andrey Brito"
-  elements:
-    - {name: "Andrey Elisio Monteiro Brito", description: "", link: "", imageUrl: "andrey.png"}
--
   group: "Telles Nóbrega"
   elements:
     - {name: "Telles Mota Vidal Nóbrega", description: "", link: "", imageUrl: "telles.png"}

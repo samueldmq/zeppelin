@@ -10,6 +10,15 @@
   team: true
 -
   id: 1
+  name: "Andrey"
+  surname: "Brito"
+  title: "Co-Organizer"
+  company: "UFCG"
+  bio: "Andrey é professor na Universidade Federal de Campina Grande. Seus principais interesses são os aspectos de robustez e escalabilidade de sistemas distribuídos. Ele tem trabalhado com OpenStack desde 2013, coordenando times de R&D que contribuiram para diversos  projetos do OpenStack, incluindo Keystone, Ironic, Sahara e Monasca"
+  thumbnailUrl: andrey.png
+  team: true
+-
+  id: 2
   name: "Iury Gregory"
   surname: "Melo Ferreira"
   title: "Co-Organizer"
@@ -58,20 +67,6 @@ OpenStack desde 2014. Suas contribuições no OpenStack são focadas nos módulo
   bio: "Denise Ridolfo trabalha no time de eventos da Fundação OpenStack e é responsável por gerenciar sua presença e participação em vários eventos de indústria globais. Ela é responsável por gerenciar eventos OpenStack Day ao redor do mundo e trabalha próximo com a comunidade e volutários organizando estes eventos."
 #  bio: "Denise Ridolfo works with the OpenStack Foundation events team and is responsible for managing its presence and participation at various global industry events. She is also responsible for managing the OpenStack Day events around the world and works closely with the community and volunteers organizing these events."
   thumbnailUrl: denise.png
-  subTeam: true
--
-  id: 12
-  name: "Andrey"
-  surname: "Brito"
-  title: "Advisory Group"
-  company: "UFCG"
-  bio: "Andrey é professor na Universidade Federal de Campina Grande. Seus principais interesses são os aspectos de robustez e escalabilidade de sistemas distribuídos. Ele tem trabalhado com OpenStack desde 2013, coordenando times de R&D que contribuiram para diversos projetos do OpenStack, incluindo Keystone, Ironic, Sahara e Monasca"
-#  bio: "Andrey is a professor at Universidade Federal de Campina Grande. His
-#main interests are robustness and scalability aspects of distributed systems.
-#He has been working with OpenStack since 2013, coordinating R&D teams that
-#contributed to several OpenStack projects, including Keystone, Ironic, Sahara
-#and Monasca."
-  thumbnailUrl: andrey.png
   subTeam: true
 -
   id: 13

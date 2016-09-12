@@ -3,6 +3,10 @@
   elements:
       - {name: "Samuel de Medeiros Queiroz", description: "", link: "", imageUrl: "samuel.png"}
 -
+  group: "Andrey Brito"
+  elements:
+    - {name: "Andrey Elisio Monteiro Brito", description: "", link: "", imageUrl: "andrey.png"}
+-
   group: "Iury Gregory"
   elements:
     - {name: "Iury Gregory Melo Ferreira", description: "", link: "", imageUrl: "iury.png"}
