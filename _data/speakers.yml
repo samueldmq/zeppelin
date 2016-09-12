@@ -3,7 +3,7 @@
  name: "Samuel"
  surname: "de Medeiros Queiroz"
  company: "Hewlett-Packard Enterprise"
- bio: "Samuel is a Software Engineer at Hewlett-Packard Enterprise. He has been working with OpenStack since 2013 and is a core reviewer on Keystone, the Identity Service. He likes to help newcomers in the community and to give talks for spreading OpenStack awareness and growing its community in Brazil."
+ bio: "Samuel é um engenheiro de software na Hewlett-Packard Enterprise. Ele tem trabalhado com OpenStack por 3 anos e é membro do núcleo do time Keystone (serviço de identidade), time que é responsável por aprovar submissões de patches dos contribuidores. Os principais objetivos de Samuel são o desenvolvimento da plataforma OpenStack e ajudar no aumento de sua comunidade, e aposta no potencial de crescimento do Brasil."
  thumbnailUrl: samuel.png
  # social:
  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
