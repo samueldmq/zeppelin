@@ -144,22 +144,19 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Garanta já o seu ingresso", "Desconto de 50% até 31 de Outubro", "Em 01 o preço não terá desconto!", "Apenas 100 unidades"] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Garanta já o seu ingresso", "Desconto de 50% até 31 de Outubro"] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2016-09-09T09:00"
   validThrough: "2016-10-31T18:15"
   disabled: false
  -
   name: "Ingresso"
   price: "R$ 50"
-  priceCurrency: ""
   ticketsNumber: "100"
-  featured: true
-  buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
-  buyButtonText: "Compre agora"
-  ticketContentList: ["Granta já o seu ingresso","Vendas a partir de 01 de Novembro ou até acabarem as unidades"]
+#  buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
+  buyButtonText: ""
+  ticketContentList: ["Vendas a partir de 01 de Novembro ou até acabarem as unidades"]
   validFrom: "2016-09-09T00:00"
   validThrough: "2016-11-19T08:00"
-  disabled: true
 
 # Footer
 socialLinks:
