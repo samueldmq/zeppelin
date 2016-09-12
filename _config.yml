@@ -137,10 +137,9 @@ ticketsInfo: "Os ingressos garantem acesso a todas as palestras e lanches.//\nA 
 ticketsOffers:
  -
   name: "Ingresso Promocional"
-  price: "R$ 50"
+  price: "R$ 25"
   priceCurrency: ""
   ticketsNumber: "100"
-  ribbon: "-50%"
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
   buyButtonText: "Compre agora"
@@ -149,7 +148,7 @@ ticketsOffers:
   validThrough: "2016-10-31T18:15"
   disabled: false
  -
-  name: "Ingresso"
+  name: "Ingresso Regular"
   price: "R$ 50"
   ticketsNumber: "100"
 #  buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
