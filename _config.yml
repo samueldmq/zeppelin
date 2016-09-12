@@ -133,18 +133,33 @@ partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Tickets Block
 ticketsTitle: "Tabela de Preço"
-ticketsInfo: "Os ingressos garantem acesso a Tickets grant access to all conference sections, coffee brakes.//\nAccommodation is NOT included in the ticket price."
+ticketsInfo: "Os ingressos garantem acesso a todas as palestras e lanches.//\nA hospedagem não está inclusa no preço do ingresso."
 ticketsOffers:
  -
-  name: "Lote Único"
-  price: "R$ 25"
+  name: "Ingresso Promocional"
+  price: "R$ 50"
   priceCurrency: ""
-  ticketsNumber: "150"
+  ticketsNumber: "100"
+  ribbon: "-50%"
+  featured: true
   buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Garanta já o seu ingresso"] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2016-11-19T09:00"
-  validThrough: "2016-11-19T18:15"
+  ticketContentList: ["Garanta já o seu ingresso", "Desconto de 50% até 31 de Outubro", "Em 01 o preço não terá desconto!", "Apenas 100 unidades"] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2016-09-09T09:00"
+  validThrough: "2016-10-31T18:15"
+  disabled: false
+ -
+  name: "Ingresso"
+  price: "R$ 50"
+  priceCurrency: ""
+  ticketsNumber: "100"
+  featured: true
+  buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
+  buyButtonText: "Compre agora"
+  ticketContentList: ["Granta já o seu ingresso","Vendas a partir de 01 de Novembro ou até acabarem as unidades"]
+  validFrom: "2016-09-09T00:00"
+  validThrough: "2016-11-19T08:00"
+  disabled: true
 
 # Footer
 socialLinks:
