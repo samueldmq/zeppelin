@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Registration"
-date:   "2016-09-05 09:00:00"
+title:  "Ingressos"
+date:   "2016-09-09 09:00:00"
+color: "#cc0000"
 isStaticPost: false
 ---
-We are glad to announce that, the registration for OpenStack Days Natal is now Open!
-This will be the first OpenStack Days Event happening in the Northeast of Brazil!
 
 
+Está oficialmente aberta as inscrições para participar do OpenStack Days
+Natal!
+O evento será realizado em 19 de novembro na cidade de Natal no Rio Grande do
+Norte, Brasil. Vai perder esta chance? Garanta seu ingresso clicando
+[aqui](https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913)
+
+__Atenção__ os ingressos estão limitados à 100 unidades.

@@ -1,34 +1,41 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2016-09-05 10:00:00
+title:  "Chamada de Palestrantes"
+date:   2016-09-09 21:00:00
+color: "#cc0000"
 isStaticPost: false
 ---
-The Call for Papers for OpenStack Days Natal 2016 is now Open!
-The Event will be held 19th of November in Natal-RN, Brazil. Want to be part of this great event as a speaker? See below what we expect before submit a talk proposal.
 
-#### Presenters – Who should speak at the OpenStack Days Natal?
+Está oficialmente aberta a chamada para palestrantes para o OpenStack Days
+Natal!
+O evento será realizado em 19 de novembro na cidade de Natal no Rio Grande do
+Norte, Brasil. Deseja ser um palestrante? Veja abaixo quem pode submeter
+palestras e quais os temas iremos abordar no evento.
 
-We welcome anyone that is interested in OpenStack!
+##### Quem pode ser um Palestrante no OpenStack Days Natal?
 
-* Developers
-* Research institutions
-* Companies
+Seja você Desenvolvedor, SysAdmin, Egenheiro de Software, Gerente de TI, etc.
+Nós encorajamos qualquer pessoa que esteja interessada em OpenStack a submeter uma palestra!
 
-#### Themes
+##### Temas
 
-__Deployments__
+__Infraestruturas__
 
-__Good practices__
+__Boas práticas__
 
-__Cases of Study / Sharing Experiences__
+__Casos de estudo__
 
-__Adoption Plans__
+__Relatos de experiências__
 
-#### Please submit your proposals [here](https://goo.gl/forms/NxnHIPfpFHidOEb92).
-__Deadline__ is October 20, 2016.
+__Planos de utilização__
 
-__Please note:__ There is no guarantee that a submission will be put onto the schedule!<br/>
 
-#### Questions?
-Email organizers at [](mailto:)
+##### Por favor submeta suas palestras neste [link](https://goo.gl/forms/NxnHIPfpFHidOEb92).
+__Prazo final para submissão__ é 08 de Outubro de 2016.
+
+__Nota:__ A submissão pode ser estendida até 15 de outubro caso a organização
+ache necessário. O resultado das palestras aceitas está previsto para 3 dias
+após o prazo final de submissão.
+
+##### Dúvidas?
+Entre em contato com os organizadores através do e-mail [openstackdaysnatal@gmail.com.](mailto:openstackdaysnatal@gmail.com.)

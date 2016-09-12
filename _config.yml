@@ -15,11 +15,11 @@ email: "openstackdaysnatal@gmail.com."
 description: ""
 baseurl: ""
 url: "http://natal.openstackdays.com.br"
-permalink: "/blog/:title"
-url: "http://natal.openstackdays.com.br"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#permalink: "/blog/:title"
+#url: "http://natal.openstackdays.com.br"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "gdg-x.github.io"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "OpenStack Days Natal Group"
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/sharing-twitter.png"
 socialImageSrcFacebook: "/img/sharing-facebook.png"
 
 # Documents
-c4pUrl: ""
+c4pUrl: "https://goo.gl/forms/NxnHIPfpFHidOEb92"
 c4sponsorsUrl: "/assets/SponsorshipProspectus_Enterprise.pdf"
 
 
@@ -65,7 +65,11 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre OpenStack Days Natal 2016"
 aboutBlock:
- - {title: "Event", image: "BADGE_1_NATAL-01.png", text: "First OpenStack Days event to be held in the northeast of Brazil in Natal" }
+ - {title: "", image: "BADGE_1_NATAL-01.png", text: "O primeiro evento
+   OpenStack Days a ser realizado na região Nordeste do Brasil na cidade de
+Natal no Rio Grande do Norte! Não perca esta grande oportunidade para
+conhecer líderes da indústria, usuários da comunidade OpenStack, compartilhar
+conhecimentos e discutir sobre como OpenStack pode ser útil!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -101,13 +105,14 @@ mapCenterCoordinates: "-5.872569, -35.1783299"
 mapMobileCenterCoordinates: "-5.872569, -35.1783299"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Local"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Praiamar Hotel & Convention"
-venueFeatures: ["Best location in Ponta Negra Beach", "A huge and confortable auditorium", "Great leisure space"]
+venueFeatures: ["Melhor localização na Praia de Ponta Negra", "Auditório
+confortável", "Possui ótimo espaço para lazer"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -143,34 +148,29 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "", icon: "twitter"}
- - {link: "", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+   - {link: "https://twitter.com/openstacknatal", icon: "twitter"}
+   - {link: "http://fb.me/OpenStackDaysNatal", icon: "facebook"}
 footerBlocks:
  -
-  title: "Links"
-  links:
-   - {link: "", text: ""}
-   - {link: "", text: ""}
- -
-  title: "Contacts"
+  title: "Contato"
   links:
    - {link: "mailto:openstackdaysnatal@gmail.com", text: "openstackdaysnatal@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas notícias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "OpenStackDaysNatal"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+# Colocar texto aqui "Quem somos?" "..."
+teamBlockTitle: ""
 aboutUs: ""
 
 # Logistics Find Way Block
@@ -187,11 +187,10 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Natal-RN"
+directionDetailsTitle: "Natal-RN"
 directionDetailsCards:
- - {title: "From the Airport", information: '34km by car. Less than 50 minutes.'}
- - {title: "Public Transit", information: '14 minutes from Arena das Dunas Stadium by car. 13 minutes from Via Mar Shopping
- walk. 22 minutes by car from the biggest cashew tree in the world'}
+ - {title: "Aeroporto", information: '34km de distância, menos de 50 minutos de carro.'}
+ - {title: "Trânsito", information: '14 minutos de carro do Estádio Arena das Dunas. 13 minutos a pé do Via Mar Shopping. 22 minutos de carro do maior cajueiro do mundo.'}
  - {title: "Hotel", information: 'O Hotel do evento será o Praiamar Natal Hotel&Convention. Para mais informações acesse o site do <a href="http://www.praiamarnatal.com.br/">Hotel</a>.'}
 directionDetailsWideCards:
  -
