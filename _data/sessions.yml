@@ -8,12 +8,47 @@
   speakers: []
 -
   id: 003
-  title: "Palestra"
-  description: ""
+  title: "O papel do OpenStack na Transformação Digital das Telcos"
+  description: '<br>Tradicionais, lentas e desajeitadas. É desta maneira que muitas telcos são
+vistas e descritas quando avaliadas à luz da sua capacidade em adotar
+novas tecnologias e gerar novos negócios para além da rede tradicional.
+Entretanto os tempos são outros. Pela primeira vez em décadas de serviços
+previsíveis, receitas crescentes e garantidas, as telcos estão sendo
+seriamente ameaçadas por serviços e empresas de OTT, provedores de
+infraestrutura como serviço de larguíssima escala e empresas com DNA 100%
+software, extremamente ágeis e disruptivas.
+<br><br>
+Donas absolutas das redes e tudo que nelas trafegava, do backbone à última
+milha, as telcos agora se vêem diante de um tremendo desafio: competir em
+serviços, inteligência e velocidade com os novos players. Mais do que
+isso, se vêem diante da necessidade preemente de se reinventarem em um
+mercado onde os lucros oriundos dos serviços tradicionais de rede e
+telefonia já não crescem como antes, já não são suficientes para, através
+da forma e da técnica tradicional - com appliances, hardware complexos e
+caríssimos, garantir a expanção e o crescimento necessário para suportar a
+explosão na demanda de banda larga e conectividade de hoje e do futuro.
+<br><br>
+Nesta apresentação você vai conhecer alguns dos caminhos que as telcos
+podem e estão trilhando, do ponto de vista tecnológico, com a companhia do
+OpenStack, para desbravar e vencer em um mundo de redes e datacenters
+definidos por software, um mundo de automação e competitividade extrema.
+Um mundo onde a rede não é mais um elemento estático, mero meio de
+passagem de dados e informações. Um mundo onde as redes se transformam em
+elementos vitais para a oferta de soluções verdadeiramente digitais. Venha
+entender como, finalmente, as telcos são capazes de entregar e fazer
+valer, em grande parte graças ao uso de OpenStack e tecnologias
+correlatas, a antiga promessa-slogan da Sun Microsystems: "The Network is
+the Computer". A tecnologia agora existe, a demanda idem. A cultura, a
+mentalidade e a forma de trabalhar das telcos está mudando para acompanhar
+esta evolução também. Conheça em primeira mão a perspectiva nacional -
+rara e pouco divulgada - desta questão. Conheça como ela está sendo
+encarada por profissionais de telco que estão exatamente no centro desta
+tempestade perfeita.
+  '
   speakers: []
 -
   id: 004
-  speakers: []
+  speakers: [4, 5]
 -
   id: 005
   title: "Palestra"
