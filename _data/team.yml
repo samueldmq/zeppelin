@@ -24,7 +24,7 @@
   title: "Co-Organizer"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
   bio: "Iury é um estudante de Mestrado na UFCG. Ele tem trabalhado com
-OpenStack desde 2014. Suas contribuições no OpenStack são focadas nos módulos puppet dos diversos componentes existentes no OpenStack."
+OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contribuições no OpenStack são focadas nos módulos puppet dos diversos componentes existentes no OpenStack."
 #  bio: "Iury is a Master Student at Universidade Federal de Campina Grande in Brazil. He has experience with Analytics and has been working with OpenStack since 2014.  Most contributions are for Puppet OpenStack Modules."
   thumbnailUrl: iury.png
   team: true
