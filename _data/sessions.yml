@@ -1,13 +1,41 @@
 -
+  id: 101
+  tittle: "Abertura"
+  place: ""
+  description: ""
+-
+  id: 102
+  speakers: [1]
+-
   id: 001
   title: "Keynote"
   place: ""
   description: ""
 -
   id: 002
-  speakers: []
+  speakers: [2]
 -
   id: 003
+  title: ""
+  place: ""
+  description: ""
+-
+  id: 004
+  speakers: [3]
+-
+  id: 005
+  title: ""
+  place: ""
+  description: ""
+-
+  id: 006
+  speakers: []
+-
+  id: 007
+  title: "Almoço"
+  service: true
+-
+  id: 009
   title: "O papel do OpenStack na Transformação Digital das Telcos"
   description: '<br>Tradicionais, lentas e desajeitadas. É desta maneira que muitas telcos são
 vistas e descritas quando avaliadas à luz da sua capacidade em adotar
@@ -45,30 +73,9 @@ rara e pouco divulgada - desta questão. Conheça como ela está sendo
 encarada por profissionais de telco que estão exatamente no centro desta
 tempestade perfeita.
   '
-  speakers: []
--
-  id: 004
-  speakers: [4, 5]
--
-  id: 005
-  title: "Palestra"
-  description: ""
-  speakers: []
--
-  id: 006
-  speakers: []
--
-   id: 007
-   title: "Almoço"
-   service: true
--
-  id: 009
-  title: "Palestra"
-  description: ""
-  speakers: []
 -
   id: 010
-  speakers: []
+  speakers: [4, 5]
 -
   id: 011
   title: "Palestra"
@@ -118,5 +125,9 @@ tempestade perfeita.
   speakers: []
 -
   id: 021
-  title: "Agradecimentos & Formulários de Avaliação"
+  title: "Encerramento - Agradecimentos, Formulários de Avaliação e Sorteios"
+  service: true
+-
+  id: 022
+  title: "Evento de Networking"
   service: true

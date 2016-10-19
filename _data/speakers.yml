@@ -1,5 +1,5 @@
 -
- id: 3
+ id: 1
  name: "Samuel"
  surname: "de Medeiros Queiroz"
  company: "Hewlett-Packard Enterprise"
@@ -7,6 +7,20 @@
  thumbnailUrl: samuel.png
  # social:
  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+ id: 2
+ name: ""
+ surname: ""
+ company: ""
+ bio: ""
+ thumbnailUrl:
+-
+ id: 3
+ name: "Andrey"
+ surname: "Brito"
+ company: "UFCG"
+ bio: "<p> Andrey é professor na Universidade Federal de Campina Grande. Seus principais interesses são os aspectos de robustez e escalabilidade de sistemas distribuídos. Ele tem trabalhado com OpenStack desde 2013, coordenando times de R&D que contribuiram para diversos  projetos do OpenStack, incluindo Keystone, Ironic, Sahara e Monasca </p>"
+ thumbnailUrl: andrey.png
 -
  id: 4
  name: "Alex Hübner"
