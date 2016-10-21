@@ -1,42 +1,22 @@
 -
   id: 101
-  tittle: "Abertura"
+  title: "Abertura - A Comunidade OpenStack"
   place: ""
-  description: ""
+  description: "<br>OpenStack é uma das comunidades de código aberto que mais cresce no mundo.
+São mais de 60 mil pessoas em 631 companhias distribuídas por 186 países
+colaborando nas suas mais de 20 milhões de linhas de código.<br><br>
+O Brasil não pode ficar de fora, e é por isso que estamos muito felizes
+em fazer acontecer o primeiro OpenStack Days na região Nordeste do país.<br><br>
+Será um dia com uma explosão de conhecimento através de palestras de
+diversas organizações utilizando OpenStack no país.
+"
 -
   id: 102
   speakers: [1]
 -
   id: 001
-  title: "Keynote"
+  title: "Keynote: O papel do OpenStack na Transformação Digital das Telcos"
   place: ""
-  description: ""
--
-  id: 002
-  speakers: [2]
--
-  id: 003
-  title: ""
-  place: ""
-  description: ""
--
-  id: 004
-  speakers: [3]
--
-  id: 005
-  title: ""
-  place: ""
-  description: ""
--
-  id: 006
-  speakers: []
--
-  id: 007
-  title: "Almoço"
-  service: true
--
-  id: 009
-  title: "O papel do OpenStack na Transformação Digital das Telcos"
   description: '<br>Tradicionais, lentas e desajeitadas. É desta maneira que muitas telcos são
 vistas e descritas quando avaliadas à luz da sua capacidade em adotar
 novas tecnologias e gerar novos negócios para além da rede tradicional.
@@ -74,8 +54,35 @@ encarada por profissionais de telco que estão exatamente no centro desta
 tempestade perfeita.
   '
 -
-  id: 010
+  id: 002
   speakers: [4, 5]
+-
+  id: 003
+  title: ""
+  place: ""
+  description: ""
+-
+  id: 004
+  speakers: []
+-
+  id: 005
+  title: ""
+  place: ""
+  description: ""
+-
+  id: 006
+  speakers: []
+-
+  id: 007
+  title: "Almoço"
+  service: true
+-
+  id: 009
+  title: ""
+  description: ''
+-
+  id: 010
+  speakers: []
 -
   id: 011
   title: "Palestra"
