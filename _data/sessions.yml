@@ -58,12 +58,12 @@ tempestade perfeita.
   speakers: [4, 5]
 -
   id: 003
-  title: ""
+  title: "OpenStack na UFCG: pesquisa, desenvolvimento e operação"
   place: ""
-  description: ""
+  description: "Desde 2013, em parceria com HP, o LSD participa ativamente na comunidade OpenStack. De acordo com <a href=\"http://stackalytics.com\">http://stackalytics.com</a>, a UFCG/LSD está ocupando o 29º lugar em contribuições, com 113.523 linhas de código desde então. Levando em consideração o tipo de ambiente adequado para que seja possível usar as soluções que desenvolvemos antes de disponibilizar para a comunidade, bem como prover o serviço em si para diversos ambientes, incluindo o nosso laboratório, a equipe de operação vem elaborando algumas estruturas de cloud de produção e de testes, onde é possível amadurecer nossa experiência com o OpenStack. Nesta conversa LSD nós vamos apresentar o progresso de nossa experiência com OpenStack na infraestrutura do laboratório até seu ambiente de produção mais atual (Cloud 4), e expor um conjunto de boas práticas de uso para um cliente em geral."
 -
   id: 004
-  speakers: []
+  speakers: [3, 6, 7]
 -
   id: 005
   title: ""

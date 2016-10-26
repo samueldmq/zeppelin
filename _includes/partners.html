@@ -46,12 +46,13 @@
                 {% endfor %}
             </div>
             <h3>{{ site.partnersTitle }}</h3>
-            <!--
+
             {% for partner in site.data.partners %}
                 <div class="row about-details">
                     <h5>{{ partner.group }}</h5>
                     {% for element in partner.elements %}
-                    {% assign colWidth = 12 | divided_by: forloop.length %}
+                    {% assign colWidth = 6 | divided_by: forloop.length %}
+                    <!--  assign colWidth = 12 | divided_by: forloop.length  -->
                        <div class="col-md-{{ colWidth }} col-xs-6">
                            <a href="{{ element.link }}" target="_blank">
                                <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
@@ -59,7 +60,7 @@
                         </div>
                     {% endfor %}
                 </div>
-            {% endfor %}-->
+            {% endfor %}
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
     </div>
