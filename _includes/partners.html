@@ -51,11 +51,12 @@
                 <div class="row about-details">
                     <h5>{{ partner.group }}</h5>
                     {% for element in partner.elements %}
-                    {% assign colWidth = 6 | divided_by: forloop.length %}
+                    {% assign colWidth = 12 | divided_by: forloop.length %}
                     <!--  assign colWidth = 12 | divided_by: forloop.length  -->
                        <div class="col-md-{{ colWidth }} col-xs-6">
                            <a href="{{ element.link }}" target="_blank">
-                               <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                               <img src="{{ site.baseurl
+}}/img/partners/{{ element.imageUrl }}" style="width: 33%;" title="{{ element.description }}" alt="{{ element.name }}">
                            </a>
                         </div>
                     {% endfor %}

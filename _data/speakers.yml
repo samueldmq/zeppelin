@@ -7,13 +7,13 @@
  thumbnailUrl: samuel.png
  # social:
  #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
- id: 2
- name: ""
- surname: ""
- company: ""
- bio: ""
- thumbnailUrl:
+#-
+# id: 2
+# name: ""
+# surname: ""
+# company: ""
+# bio: ""
+# thumbnailUrl:
 -
  id: 3
  name: "Andrey"
@@ -53,22 +53,9 @@
  company: "UFCG"
  bio: "Graduando do 9º perído do curso de Ciência Da Computação/UFCG, já iniciou sua carreira nos laboratórios do departamento antes de ingressar no curso, sempre evolvido em temas relacionados à sistemas distribuidos. Hoje atua como DevOps num dos laboratórios que mais contribuem com a comunidade OpenStack, o Laboratório de Sistemas Distribuídos - LSD. Cloud Computing é seu principal foco e há 2 anos e meio trabalha com o OpenStack. Dedica-se tanto à computação quanto à música de maneira criativa, sempre visando a evolução pessoal e profissional de ambas."
  thumbnailUrl: guilherme.jpg
-#  rockstar: true
-#  ribbon:
-#   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-# social:
-#   - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#   - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 -
  id: 7
  name: "Flávio Ramalho"
  company: "UFCG"
- title: ""
- bio: ""
-#thumbnailUrl: ValentynShybanov.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social:
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
+ bio: "Graduado em Ciência da Computação pela UFCG e mestrando em Sistemas Distribuídos pela UFRN, atua como DevOps num dos laboratórios que mais contribuem com a comunidade OpenStack, o Laboratório de Sistemas Distribuídos - LSD. Active Technical Contributor (ATC) do OpenStack, contribuindo principalmente no projeto OpenStack-Ansible. Cloud Computing é seu principal foco e há 3 anos trabalha com o OpenStack."
+ thumbnailUrl: flavio.jpg

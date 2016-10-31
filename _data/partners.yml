@@ -1,7 +1,12 @@
--
-  group: ""
+- group: "Hewlett Packard Enterprise"
   elements:
-    - {name: "Universidade Federal de Campina Grande", description: "", link: "", imageUrl: "ufcg.png"}
+    - {name: "Hewlett Packard Enterprise", description: "", link: "https://www.hpe.com/", imageUrl: "hpe.png"}
+- group: "Universidade Federal de Campina Grande"
+  elements:
+    - {name: "Universidade Federal de Campina Grande", description: "", link: "http://www.lsd.ufcg.edu.br/", imageUrl: "ufcg.png"}
+- group: "Silibrina"
+  elements:
+    - {name: "Silibrina", description: "", link: "", imageUrl: "silibrina.png"}
 # -
 #   group: "With support of"
 #   elements:
