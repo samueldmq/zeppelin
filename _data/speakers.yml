@@ -23,7 +23,8 @@
  thumbnailUrl: andrey.png
 -
  id: 4
- name: "Alex Hübner"
+ name: "Alex"
+ surname: "Hübner"
  company: "Embratel"
  title: "Gerente de Evolução de Plataformas"
  # bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
@@ -35,7 +36,8 @@
  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
  id: 5
- name: "Heloisa Pereira"
+ name: "Heloisa"
+ surname: "Pereira"
  company: "Embratel"
  title: "Gerente de Desenvolvimento de Sistemas Cloud Embratel"
  bio: '<p>Arquiteta de Soluções de Tecnologia com foco em arquitetura e projetos nas áreas de Rede, Segurança e Cloud Computing. Nas áreas de Virtualização e Cloud, possui conhecimento em OpenStack e VMware e em integrações avançadas dessas plataformas com soluções de SDN (Software Defined Networking) e NFV (Network Function Virtualization). Seu histórico profissional inclui projetos em grandes empresas do segmento bancário e financeiro, assim como em provedores de telecomunicações. Atualmente faz parte do time de Soluções Digitais da Embratel e atua na construção e evolução da plataforma de Cloud OpenStack da empresa.</p>'
@@ -49,13 +51,15 @@
  #   - {name: "twitter", link: "https://twitter.com/mherych"}
 -
  id: 6
- name: "Guilherme Pimentel"
+ name: "Guilherme"
+ surname: "Pimentel"
  company: "UFCG"
  bio: "Graduando do 9º perído do curso de Ciência Da Computação/UFCG, já iniciou sua carreira nos laboratórios do departamento antes de ingressar no curso, sempre evolvido em temas relacionados à sistemas distribuidos. Hoje atua como DevOps num dos laboratórios que mais contribuem com a comunidade OpenStack, o Laboratório de Sistemas Distribuídos - LSD. Cloud Computing é seu principal foco e há 2 anos e meio trabalha com o OpenStack. Dedica-se tanto à computação quanto à música de maneira criativa, sempre visando a evolução pessoal e profissional de ambas."
  thumbnailUrl: guilherme.jpg
 -
  id: 7
- name: "Flávio Ramalho"
+ name: "Flávio"
+ surname: "Ramalho"
  company: "UFCG"
  bio: "Graduado em Ciência da Computação pela UFCG e mestrando em Sistemas Distribuídos pela UFRN, atua como DevOps num dos laboratórios que mais contribuem com a comunidade OpenStack, o Laboratório de Sistemas Distribuídos - LSD. Active Technical Contributor (ATC) do OpenStack, contribuindo principalmente no projeto OpenStack-Ansible. Cloud Computing é seu principal foco e há 3 anos trabalha com o OpenStack."
  thumbnailUrl: flavio.jpg
