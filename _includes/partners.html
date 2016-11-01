@@ -56,7 +56,7 @@
                        <div class="col-md-{{ colWidth }} col-xs-6">
                            <a href="{{ element.link }}" target="_blank">
                                <img src="{{ site.baseurl
-}}/img/partners/{{ element.imageUrl }}" style="width: 50%; height: 50%;" title="{{ element.description }}" alt="{{ element.name }}">
+}}/img/partners/{{ element.imageUrl }}" style="width: {{ element.resize }}; height: {{ element.resize }};" title="{{ element.description }}" alt="{{ element.name }}">
                            </a>
                         </div>
                     {% endfor %}

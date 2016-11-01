@@ -1,12 +1,12 @@
 - group: "Principal"
   elements:
-    - {name: "Hewlett Packard Enterprise", description: "", link: "https://www.hpe.com/", imageUrl: "hpe.png"}
+    - {name: "Hewlett Packard Enterprise", description: "", link: "https://www.hpe.com/", imageUrl: "hpe.png", resize: "33%"}
 - group: "Educacional"
   elements:
-    - {name: "Universidade Federal de Campina Grande", description: "", link: "http://www.lsd.ufcg.edu.br/", imageUrl: "ufcg.png"}
+    - {name: "Universidade Federal de Campina Grande", description: "", link: "http://www.lsd.ufcg.edu.br/", imageUrl: "ufcg.png", resize: "33%"}
 - group: "Startup"
   elements:
-    - {name: "Silibrina", description: "", link: "", imageUrl: "silibrina.png"}
+    - {name: "Silibrina", description: "", link: "", imageUrl: "silibrina.png", resize: "25%"}
 # -
 #   group: "With support of"
 #   elements:
