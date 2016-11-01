@@ -29,27 +29,7 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
   thumbnailUrl: iury.png
   team: true
 -
-  id: 2
-  name: "Matteus Sthefano"
-  surname: "Leite da Silva"
-  title: "Staff"
-  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: "Matteus é um estudante de Graduação de Ciência da Computação na UFCG. Novo no mundo OpenStack, ele tem trabalhado desde o ínicio do ano com projetos que se relacionam com o Monasca."
-#  bio: "Matteus is a Undergraduate Student at Universidade Federal de Campina  Grande in Brazil. New at OpenStack world, He has been working with OpenStack since the beginning of year. Currently working in a project that is strongly related to monasca. Most contributions are for Monasca OpenStack Modules."
-  thumbnailUrl: matteus.png
-  team: true
--
   id: 3
-  name: "Igor Natanael"
-  surname: "Sousa Ataide"
-  title: "Staff"
-  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: "Igor é um estudante de Gradução que está no 7º período do curso de Ciência da Computação na UFCG, ele é um grande entusiasta do Software Livre. Iniciou seu trabalho com OpenStack desde 2015 e atualmente trabalha contribuindo para o serviço de monitoramento do OpenStack (Monasca)."
-#  bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
-  thumbnailUrl: igor.png
-  team: true
--
-  id: 10
   name: "VM (Vicky)"
   surname: "Brasseur"
   title: "Advisory Group"
@@ -59,7 +39,7 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
   thumbnailUrl: vicky.png
   subTeam: true
 -
-  id: 11
+  id: 4
   name: "Denise"
   surname: "Ridolfo"
   title: "Advisory Group"
@@ -69,7 +49,7 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
   thumbnailUrl: denise.png
   subTeam: true
 -
-  id: 13
+  id: 5
   name: "Telles Mota"
   surname: "Vidal Nobrega"
   title: "Advisory Group"
@@ -78,3 +58,23 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
 #  bio: "Telles is software engineer at Red Hat. He has been working on OpenStack since 2013, focusing on Sahara (Data Processing as a Service) component where he is a core contributor."
   thumbnailUrl: telles.png
   subTeam: true
+-
+  id: 6
+  name: "Matteus Sthefano"
+  surname: "Leite da Silva"
+  title: "Staff"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: "Matteus é um estudante de Graduação de Ciência da Computação na UFCG. Novo no mundo OpenStack, ele tem trabalhado desde o ínicio do ano com projetos que se relacionam com o Monasca."
+#  bio: "Matteus is a Undergraduate Student at Universidade Federal de Campina  Grande in Brazil. New at OpenStack world, He has been working with OpenStack since the beginning of year. Currently working in a project that is strongly related to monasca. Most contributions are for Monasca OpenStack Modules."
+  thumbnailUrl: matteus.png
+  team: true
+-
+  id: 7
+  name: "Igor Natanael"
+  surname: "Sousa Ataide"
+  title: "Staff"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: "Igor é um estudante de Gradução que está no 7º período do curso de Ciência da Computação na UFCG, ele é um grande entusiasta do Software Livre. Iniciou seu trabalho com OpenStack desde 2015 e atualmente trabalha contribuindo para o serviço de monitoramento do OpenStack (Monasca)."
+#  bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
+  thumbnailUrl: igor.png
+  team: true
