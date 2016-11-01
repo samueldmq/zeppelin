@@ -1,10 +1,10 @@
-- group: "Hewlett Packard Enterprise"
+- group: "Principal"
   elements:
     - {name: "Hewlett Packard Enterprise", description: "", link: "https://www.hpe.com/", imageUrl: "hpe.png"}
-- group: "Universidade Federal de Campina Grande"
+- group: "Educacional"
   elements:
     - {name: "Universidade Federal de Campina Grande", description: "", link: "http://www.lsd.ufcg.edu.br/", imageUrl: "ufcg.png"}
-- group: "Silibrina"
+- group: "Startup"
   elements:
     - {name: "Silibrina", description: "", link: "", imageUrl: "silibrina.png"}
 # -

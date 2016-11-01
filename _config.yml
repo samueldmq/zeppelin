@@ -122,8 +122,8 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Parceiros"
-partnersC4sponsorsButton: "Seja um patrocinador"
+partnersTitle: "Patrocinadores"
+#partnersC4sponsorsButton: "Seja um patrocinador"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -143,9 +143,9 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Garanta já o seu ingresso", "Desconto de 50% até 31 de Outubro"] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Garanta já o seu ingresso", "Desconto de 50% até 06 de Novembro"] #"Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2016-09-09T09:00"
-  validThrough: "2016-10-31T18:15"
+  validThrough: "2016-11-06T23:59"
   disabled: false
  -
   name: "Ingresso Regular"
@@ -153,7 +153,7 @@ ticketsOffers:
   ticketsNumber: "100"
 #  buyButtonLink: "https://www.eventbrite.com/e/openstack-day-natal-tickets-27410957913"
   buyButtonText: ""
-  ticketContentList: ["Vendas a partir de 01 de Novembro ou até acabarem as unidades"]
+  ticketContentList: ["Vendas a partir de 07 de Novembro ou até acabarem as unidades"]
   validFrom: "2016-09-09T00:00"
   validThrough: "2016-11-19T08:00"
 
