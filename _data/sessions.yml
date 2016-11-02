@@ -136,5 +136,8 @@ tempestade perfeita.
   service: true
 -
   id: 022
+  speakers: [1]
+-
+  id: 023
   title: "Evento de Networking"
   service: true

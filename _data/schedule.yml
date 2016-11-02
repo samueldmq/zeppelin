@@ -6,67 +6,62 @@
     - {title: "Palestrantes", color: "#03a9f4"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "09:30",
+        startTime: "09:30",
+        endTime: "10:00",
         sessionIds: [101,102]
     }
     - {
-    	startTime: "09:40",
-    	endTime: "10:20",
-    	sessionIds: [001, 002]
+        startTime: "10:00",
+        endTime: "10:40",
+        sessionIds: [001, 002]
     }
     - {
-        startTime: "10:30",
-        endTime: "11:10",
+        startTime: "10:50",
+        endTime: "11:30",
         sessionIds: [003, 004]
     }
     - {
-    	startTime: "11:20",
-    	endTime: "12:00",
-    	sessionIds: [005, 006]
+        startTime: "11:40",
+        endTime: "12:20",
+        sessionIds: [005, 006]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:20",
+        startTime: "12:20",
+        endTime: "13:40",
         sessionIds: [007]
     }
     - {
-        startTime: "13:30",
-        endTime: "14:10",
+        startTime: "13:40",
+        endTime: "14:20",
         sessionIds: [009, 010]
     }
     - {
-        startTime: "14:20",
-        endTime: "15:00",
+        startTime: "14:30",
+        endTime: "15:10",
         sessionIds: [011, 012]
     }
     - {
-        startTime: "15:10",
-        endTime: "15:50",
+        startTime: "15:20",
+        endTime: "16:00",
         sessionIds: [013, 014]
     }
     - {
-        startTime: "15:50",
-        endTime: "16:20",
+        startTime: "16:00",
+        endTime: "16:30",
         sessionIds: [015]
     }
     - {
-        startTime: "16:20",
-        endTime: "17:00",
+        startTime: "16:30",
+        endTime: "17:10",
         sessionIds: [017, 018]
     }
     - {
-        startTime: "17:10",
-        endTime: "17:50",
+        startTime: "17:20",
+        endTime: "18:00",
         sessionIds: [019, 020]
     }
     - {
         startTime: "18:00",
         endTime: "18:20",
         sessionIds: [021]
-    }
-    - {
-        startTime: "18:20",
-        endTime: "",
-        sessionIds: [022]
     }
