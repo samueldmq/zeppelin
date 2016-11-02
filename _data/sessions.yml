@@ -78,14 +78,14 @@ tempestade perfeita.
   service: true
 -
   id: 009
-  title: ""
+  title: "Palestra - A definir"
   description: ''
 -
   id: 010
   speakers: []
 -
   id: 011
-  title: "Palestra"
+  title: "Palestra - A definir"
   description: ""
   speakers: []
 -
@@ -93,7 +93,7 @@ tempestade perfeita.
   speakers: []
 -
   id: 013
-  title: "Palestra"
+  title: "Palestra - A definir"
   description: ""
   speakers: []
 -
@@ -116,7 +116,7 @@ tempestade perfeita.
   speakers: []
 -
   id: 017
-  title: "Palestra"
+  title: "Palestra - A definir"
   description: ""
   speakers: []
 -
@@ -124,7 +124,7 @@ tempestade perfeita.
   speakers: []
 -
   id: 019
-  title: "Palestra"
+  title: "Palestra - A definir"
   description: ""
   speakers: []
 -
