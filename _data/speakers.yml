@@ -63,3 +63,10 @@
  company: "UFCG"
  bio: "Graduado em Ciência da Computação pela UFCG e mestrando em Sistemas Distribuídos pela UFRN, atua como DevOps num dos laboratórios que mais contribuem com a comunidade OpenStack, o Laboratório de Sistemas Distribuídos - LSD. Active Technical Contributor (ATC) do OpenStack, contribuindo principalmente no projeto OpenStack-Ansible. Cloud Computing é seu principal foco e há 3 anos trabalha com o OpenStack."
  thumbnailUrl: flavio.jpg
+-
+ id: 8
+ name: "Telles"
+ surname: "Nóbrega"
+ company: "RedHat"
+ bio: "Software Engineer na Red Hat e Core Reviewer do Sahara"
+ thumbnailUrl: telles.png

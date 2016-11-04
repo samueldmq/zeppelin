@@ -78,11 +78,11 @@ tempestade perfeita.
   service: true
 -
   id: 009
-  title: "Palestra - A definir"
-  description: ''
+  title: "Processamento de Dados na Nuvem com Sahara"
+  description: "O processamento de dados na nuvem tem crescido nos últimos anos e o Sahara facilita a criação de clusters Hadoop, Spark e Storm. Com ele é possível a criação de clusters para processamento de dados em poucos passos, assim como submeter tarefas para processamento. Nessa apresentação vou apresentar o componente Sahara, sua arquitetura, seus benefícios e roadmap."
 -
   id: 010
-  speakers: []
+  speakers: [8]
 -
   id: 011
   title: "Palestra - A definir"
