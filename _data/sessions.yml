@@ -66,12 +66,16 @@ tempestade perfeita.
   speakers: [3, 6, 7]
 -
   id: 005
-  title: "Palestra - A definir"
+  title: "OpenStack em Natal: cases e experiências de uma startup"
   place: ""
-  description: ""
+  description: "Atualmente a Anolis TI mantém um serviço de nuvem chamado cncCloud. O cncCloud tem por objetivo ser uma nuvem de armazenamento para atender a universidades e institutos de pesquisa ligados a Rede Nacional de Pesquisas (RNP). Para isto, utliza o OpenStack como base desta nuvem, agregando um case de sucesso no uso desta tecnologia em um ambiente de produção. Atualmente vem trabalhando em outros ambientes incluindo uma plataforma para comportar inicialmente 10.000 usuários escaláveis em mais 10.0000 por ano para a CAPES.
+<br><br>
+Além disso, esteve envolvida em diversos projetos de pesquisa usando a tecnologia, um deles ocorreu em parceria com a Universidade of Kent (em contato com Dr. David Chadwick) para o desenvolvimento de uma versão do Keystone com suporte a federação de identidades.
+Também atua como parceiro na iniciativa de cidades inteligentes junto a UFRN e está responsável por criar e manter a plataforma Fiware de produção do projeto.
+A apresentação tem por objetivo relatar estas experiências de forma a compartilhar desafios, soluções e perspectivas do uso da plataforma OpenStack  em nossos projetos."
 -
   id: 006
-  speakers: []
+  speakers: [9]
 -
   id: 007
   title: "Almoço - Restaurante do Praiamar Hotel"

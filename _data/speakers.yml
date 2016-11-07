@@ -70,3 +70,10 @@
  company: "RedHat"
  bio: "Software Engineer na Red Hat e Core Reviewer do Sahara"
  thumbnailUrl: telles.png
+-
+ id: 9
+ name: "Thomás"
+ surname: "Filipe"
+ company: "Anolis TI"
+ bio: "Thomás é mestre em Sistemas e Computação (UFRN), atuou em diversos projetos de pesquisa envolvendo OpenStack e Cloud Computing desde 2012. Atualmente é sócio-fundador da Anolis TI, onde mantém projetos a nível nacional envolvendo armazenamento em nuvem e cidades inteligentes utilizado OpenStack como plataforma base.   "
+ thumbnailUrl: none.png
