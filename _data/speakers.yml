@@ -77,3 +77,10 @@
  company: "Anolis TI"
  bio: "Thomás é mestre em Sistemas e Computação (UFRN), atuou em diversos projetos de pesquisa envolvendo OpenStack e Cloud Computing desde 2012. Atualmente é sócio-fundador da Anolis TI, onde mantém projetos a nível nacional envolvendo armazenamento em nuvem e cidades inteligentes utilizado OpenStack como plataforma base.   "
  thumbnailUrl: none.png
+-
+ id: 10
+ name: "Rodrigo"
+ surname: "Duarte"
+ company: "RedHat"
+ bio: "Rodrigo recebeu seu mestrado em Ciência da Computacão / Sistemas Distribuídos pela Universidade Federal de Campina Grande em 2014. Atualmente trabalha como Quality Engineer na Red Hat, sendo também membro do time de cores do servico de Identidade do OpenStack (keystone) e da biblioteca Oslo.policy."
+ thumbnailUrl: rodrigo.jpg

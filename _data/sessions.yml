@@ -97,12 +97,12 @@ A apresentação tem por objetivo relatar estas experiências de forma a compart
   speakers: []
 -
   id: 013
-  title: "Palestra - A definir"
-  description: ""
+  title: "Federação de identidades no OpenStack"
+  description: "A habilidade de autenticar usuários externos em uma cloud era uma funcionalidade muito requisitada para o OpenStack. Nessa talk, iremos discutir a federacão de identidade e como foi resolvida no ambiente do OpenStack: usuários que estão armazenados em uma base de dados externa podem ser autenticados para acessarem os recursos da cloud."
   speakers: []
 -
   id: 014
-  speakers: []
+  speakers: [10]
   # title: "Polymer: Interacting with Google Services using nothing but HTML"
   # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
   # subtype: keynote
