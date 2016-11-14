@@ -84,7 +84,7 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
   surname: "Souto"
   title: "Designer"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: ""
+  bio: "Mariana é formada em Design pela UFCG e atualmente trabalha como Desginer no Laboratório de Sistemas Distribuídos (LSD)."
   thumbnailUrl: mariana.jpg
   team: true
 -
@@ -111,6 +111,6 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
   surname: "Ronyer"
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: ""
+  bio: "Helder é graduando em Ciência da Computação na UFCG, trbalha no projeto PrivIoT no LSD"
   thumbnailUrl: helder.jpg
   team: true
