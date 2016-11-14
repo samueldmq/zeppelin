@@ -78,3 +78,39 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
 #  bio: "Igor is a third-year undergraduate at Universidade Federal de Campina Grande and a great enthusiast of Software Libre. He has been working with the OpenStack community since 2015 and currently he has focused on monitoring services in OpenStack context."
   thumbnailUrl: igor.png
   team: true
+-
+  id: 8
+  name: "Mariana"
+  surname: "Souto"
+  title: "Designer"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: ""
+  thumbnailUrl: mariana.jpg
+  team: true
+-
+  id: 9
+  name: "Caio"
+  surname: "Batista Oliveira"
+  title: "Staff"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: ""
+  thumbnailUrl: caio.jpg
+  team: true
+-
+  id: 10
+  name: "Larissa Nadja"
+  surname: "Braz Brasileiro"
+  title: "Staff"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: ""
+  thumbnailUrl: larissa.png
+  team: true
+-
+  id: 11
+  name: "Helder"
+  surname: ""
+  title: "Staff"
+  company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
+  bio: ""
+  thumbnailUrl: helder.jpg
+  team: true

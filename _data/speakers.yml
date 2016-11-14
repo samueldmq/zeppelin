@@ -84,3 +84,10 @@
  company: "RedHat"
  bio: "Rodrigo recebeu seu mestrado em Ciência da Computacão / Sistemas Distribuídos pela Universidade Federal de Campina Grande em 2014. Atualmente trabalha como Quality Engineer na Red Hat, sendo também membro do time de cores do servico de Identidade do OpenStack (keystone) e da biblioteca Oslo.policy."
  thumbnailUrl: rodrigo.jpg
+-
+ id: 11
+ name: ""
+ surname: ""
+ company: ""
+ bio: ""
+ thumbnailUrl: ana.jpg

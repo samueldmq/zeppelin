@@ -6,3 +6,7 @@
   group: "Igor Natanael"
   elements:
     - {name: "Igor Natanael Sousa Ataide", description: "", link: "", imageUrl: "igor.png"}
+-
+  group: "Caio Batista"
+  elements:
+    - {name: "", description: "", link: "", imageUrl: "caio.jpg"}
