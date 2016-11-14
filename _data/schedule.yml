@@ -5,63 +5,74 @@
     - {title: "Palestras", color: "#90be4e"}
     - {title: "Palestrantes", color: "#03a9f4"}
   timeslots:
+    #abertura
     - {
         startTime: "09:30",
         endTime: "10:00",
         sessionIds: [101,102]
     }
+    # embratel
     - {
-        startTime: "10:00",
-        endTime: "10:40",
+        startTime: "10:10",
+        endTime: "10:50",
         sessionIds: [001, 002]
     }
+    # ufcg
     - {
-        startTime: "10:50",
-        endTime: "11:30",
+        startTime: "11:00",
+        endTime: "11:40",
         sessionIds: [003, 004]
     }
+    # startup
     - {
-        startTime: "11:40",
-        endTime: "12:20",
+        startTime: "11:50",
+        endTime: "12:30",
         sessionIds: [005, 006]
     }
+    # almoco
     - {
-        startTime: "12:20",
-        endTime: "13:40",
+        startTime: "12:30",
+        endTime: "13:50",
         sessionIds: [007]
     }
+    # Sahara
     - {
-        startTime: "13:40",
-        endTime: "14:20",
+        startTime: "14:00",
+        endTime: "14:40",
         sessionIds: [009, 010]
     }
+    # IFPB
     - {
-        startTime: "14:30",
-        endTime: "15:10",
+        startTime: "14:50",
+        endTime: "15:30",
         sessionIds: [011, 012]
     }
+    # Federacao
     - {
-        startTime: "15:20",
-        endTime: "16:00",
+        startTime: "15:40",
+        endTime: "16:20",
         sessionIds: [013, 014]
     }
-    - {
-        startTime: "16:00",
-        endTime: "16:30",
-        sessionIds: [015]
-    }
+    #    - {
+    #    startTime: "16:0",
+    #    endTime: "16:30",
+    #    sessionIds: [015]
+    #}
+    # ufcg2
     - {
         startTime: "16:30",
         endTime: "17:10",
         sessionIds: [017, 018]
     }
+    # Encerramento & Sorteios
     - {
-        startTime: "17:20",
-        endTime: "18:00",
-        sessionIds: [019, 020]
+        startTime: "17:10",
+        endTime: "17:30",
+        sessionIds: [019]
     }
+    # Evento
     - {
-        startTime: "18:00",
+        startTime: "17:30",
         endTime: "18:20",
-        sessionIds: [021, 022]
+        sessionIds: [020]
     }

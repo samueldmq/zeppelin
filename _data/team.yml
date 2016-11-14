@@ -93,22 +93,22 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
   surname: "Batista Oliveira"
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: ""
+  bio: "Aluno e desenvolvedor na UFCG, apaixonado por cloud computing e análise de dados. Contribuidor do OpenSatck desde janeiro de 2015"
   thumbnailUrl: caio.jpg
   team: true
 -
   id: 10
-  name: "Larissa Nadja"
-  surname: "Braz Brasileiro"
+  name: "Larissa"
+  surname: "Braz"
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: ""
+  bio: "Larissa é uma estudante de Doutorado no curso de Ciência da Computação na UFCG, com foco em engenharia de software. Possui interesse em sistemas altamente configuráveis e qualidade de software. Ela entrou no mundo da OpenStack este ano com o intuito de unir os dois mundos."
   thumbnailUrl: larissa.png
   team: true
 -
   id: 11
   name: "Helder"
-  surname: ""
+  surname: "Ronyer"
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
   bio: ""

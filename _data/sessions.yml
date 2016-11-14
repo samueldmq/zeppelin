@@ -89,12 +89,11 @@ A apresentação tem por objetivo relatar estas experiências de forma a compart
   speakers: [8]
 -
   id: 011
-  title: "Palestra - A definir"
-  description: ""
-  speakers: []
+  title: "Monitoramento online de métricas de desempenho no Openstack"
+  description: "O monitoramento de métricas de desempenho, como tráfego de rede, CPU e memória, é importante para o provimento de serviços. Esse tipo de informação é utilizada para alocação de recursos, investimentos em infraestrutura e planejamento da elasticidade dos serviços para atender a demandas, entre outros processos decisórios em um negócio. O monitoramento é realizado pelos provedores ou clientes dos serviços. O Openstack provê um serviço de infraestrutura que permite a execução de máquinas virtuais (VMs) que podem executar qualquer tipo de serviço. Os clientes do Openstack podem ser provedores de outros serviços. Logo, podem existir vários provedores de serviços utilizando o mesmo conjunto de recursos físicos gerenciados pelo Openstack. Esta palestra discute como realizar coleta e monitoramento de métricas de desempenho e como isso pode ser feito no Openstack."
 -
   id: 012
-  speakers: []
+  speakers: [11]
 -
   id: 013
   title: "Federação de identidades no OpenStack"
@@ -112,13 +111,6 @@ A apresentação tem por objetivo relatar estas experiências de forma a compart
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 015
-  title: "Coffee Break e Networking"
-  service: true
--
-  id: 016
-  speakers: []
--
   id: 017
   title: "Palestra - A definir"
   description: ""
@@ -128,16 +120,9 @@ A apresentação tem por objetivo relatar estas experiências de forma a compart
   speakers: []
 -
   id: 019
-  title: "Palestra - A definir"
-  description: ""
-  speakers: []
--
-  id: 020
-  speakers: []
--
-  id: 021
   title: "Encerramento - Agradecimentos, Formulários de Avaliação e Sorteios"
   service: true
 -
-  id: 022
-  speakers: [1]
+  id: 020
+  title: "Coffee Break & Networking"
+  service: true
