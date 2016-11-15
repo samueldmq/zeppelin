@@ -66,9 +66,9 @@ tempestade perfeita.
   speakers: [10]
 -
   id: 005
-  title: ""
+  title: "Ironic - Máquina física as a Service"
   place: ""
-  description: ""
+  description: "Fornecer máquina física diretamente para usuários da nuvem. Pra quê? #ComoFaz? Ironic é o módulo do OpenStack responsável por fazer máquinas físicas serem entregues para usuários finais seguindo 'a mesma' experiência de uso que máquinas virtuais. Nesta palestra explicarei como ele funciona, como se encaixa no ambiente OpenStack, e do que ele é capaz."
 -
   id: 006
   speakers: [15]
