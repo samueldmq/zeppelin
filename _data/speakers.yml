@@ -5,15 +5,6 @@
  company: "Hewlett-Packard Enterprise"
  bio: "Samuel é um engenheiro de software na Hewlett-Packard Enterprise. Ele tem trabalhado com OpenStack por 3 anos e é membro do núcleo do time Keystone (serviço de identidade), time que é responsável por aprovar submissões de patches dos contribuidores. Os principais objetivos de Samuel são o desenvolvimento da plataforma OpenStack e ajudar no aumento de sua comunidade, e aposta no potencial de crescimento do Brasil."
  thumbnailUrl: samuel.png
- # social:
- #   - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-#-
-# id: 2
-# name: ""
-# surname: ""
-# company: ""
-# bio: ""
-# thumbnailUrl:
 -
  id: 3
  name: "Andrey"
@@ -27,13 +18,8 @@
  surname: "Hübner"
  company: "Embratel"
  title: "Gerente de Evolução de Plataformas"
- # bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+ #bio: ""
  thumbnailUrl: hubner.jpg
- # rockstar: true
- # social:
- #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
- #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
- #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
  id: 5
  name: "Heloisa"
@@ -42,13 +28,6 @@
  title: "Gerente de Desenvolvimento de Sistemas Cloud Embratel"
  bio: '<p>Arquiteta de Soluções de Tecnologia com foco em arquitetura e projetos nas áreas de Rede, Segurança e Cloud Computing. Nas áreas de Virtualização e Cloud, possui conhecimento em OpenStack e VMware e em integrações avançadas dessas plataformas com soluções de SDN (Software Defined Networking) e NFV (Network Function Virtualization). Seu histórico profissional inclui projetos em grandes empresas do segmento bancário e financeiro, assim como em provedores de telecomunicações. Atualmente faz parte do time de Soluções Digitais da Embratel e atua na construção e evolução da plataforma de Cloud OpenStack da empresa.</p>'
  thumbnailUrl: heloisa.jpeg
- # rockstar: true
- # ribbon:
- #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
- #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
- # social:
- #   - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
- #   - {name: "twitter", link: "https://twitter.com/mherych"}
 -
  id: 6
  name: "Guilherme"
@@ -76,7 +55,7 @@
  surname: "Filipe"
  company: "Anolis TI"
  bio: "Thomás é mestre em Sistemas e Computação (UFRN), atuou em diversos projetos de pesquisa envolvendo OpenStack e Cloud Computing desde 2012. Atualmente é sócio-fundador da Anolis TI, onde mantém projetos a nível nacional envolvendo armazenamento em nuvem e cidades inteligentes utilizado OpenStack como plataforma base.   "
- thumbnailUrl: none.png
+ thumbnailUrl: thomas.jpg
 -
  id: 10
  name: "Rodrigo"
@@ -91,3 +70,31 @@
  company: "IFPB"
  bio: "Ana Cristina é doutora em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG), professora do Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) e líder do Grupo de Pesquisa em Redes Convergentes (GPRC). Seu mestrado e doutorado foram na área de Redes de Computadores e Sistemas Distribuídos. Na indústria, ela trabalhou como analista de Tecnologia da Informação para a multinacional Springs Global. Trabalhou ainda como pesquisadora no Laboratório de Sistemas Distribuídos (LSD/UFCG), no Grupo de Pesquisa em Redes e Telecomunicações (GPRT/UFPE) e no Laboratório de Teleinformática (LATEC/UFCG)."
  thumbnailUrl: ana.jpg
+-
+ id: 12
+ name: "Henrique"
+ surname: "Truta"
+ company: "UFCG"
+ bio: "No LSD/UFCG atua como Engenheiro de software líder e desbravador. Trabalhou com Sahara, Monasca, Heat, Nova e, principalmente, Keystone, no qual atualmente foca em facilitar a customização de policies para operadores no OpenStack."
+ thumbnailUrl: henrique.jpg
+-
+ id: 13
+ name: "Raildo"
+ surname: "Mascena"
+ company: "UFCG"
+ bio: "No LSD/UFCG atua como Engenheiro de Software. Liderou a implementação de Hierarchical Multitenancy no Keystone, além do suporte na adoção da API v3 do Keystone dentre outras funcionalidades. Hoje é membro core do time de tradução do OpenStack para português, além de mentor no programa de estágio do OpenStack."
+ thumbnailUrl: raildo.jpg
+-
+ id: 14
+ name: "Paulo"
+ surname: ""
+ company: "UFCG"
+ bio: ""
+ thumbnailUrl: none.png
+-
+ id: 15
+ name: "Gabriel"
+ surname: "Bezerra"
+ company: "UFCG"
+ bio: ""
+ thumbnailUrl: none.png

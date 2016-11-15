@@ -13,55 +13,62 @@
     }
     # embratel
     - {
-        startTime: "10:10",
-        endTime: "10:50",
+        startTime: "10:05",
+        endTime: "10:45",
         sessionIds: [001, 002]
     }
-    # ufcg
+    # federation
     - {
-        startTime: "11:00",
-        endTime: "11:40",
+        startTime: "10:50",
+        endTime: "11:30",
         sessionIds: [003, 004]
     }
-    # startup
+    # ironic
     - {
-        startTime: "11:50",
-        endTime: "12:30",
+        startTime: "11:35",
+        endTime: "12:15",
         sessionIds: [005, 006]
     }
     # almoco
     - {
-        startTime: "12:30",
-        endTime: "13:50",
+        startTime: "12:15",
+        endTime: "13:30",
         sessionIds: [007]
     }
-    # Sahara
+    # ufcg
     - {
-        startTime: "14:00",
-        endTime: "14:40",
-        sessionIds: [009, 010]
+        startTime: "13:30",
+        endTime: "14:10",
+        sessionIds: [008, 009]
     }
     # IFPB
     - {
-        startTime: "14:50",
-        endTime: "15:30",
-        sessionIds: [011, 012]
+        startTime: "14:15",
+        endTime: "14:55",
+        sessionIds: [010, 011]
     }
-    # Federacao
+    # Sahara
+    - {
+        startTime: "15:00",
+        endTime: "15:40",
+        sessionIds: [012, 013]
+    }
+    # cafe
     - {
         startTime: "15:40",
-        endTime: "16:20",
-        sessionIds: [013, 014]
+        endTime: "16:00",
+        sessionIds: [014]
     }
-    #    - {
-    #    startTime: "16:0",
-    #    endTime: "16:30",
-    #    sessionIds: [015]
-    #}
-    # ufcg2
+    # AnolisTI
     - {
-        startTime: "16:30",
-        endTime: "17:10",
+        startTime: "16:00",
+        endTime: "16:40",
+        sessionIds: [015, 016]
+    }
+    # Keystone
+    - {
+        startTime: "16:45",
+        endTime: "17:25",
         sessionIds: [017, 018]
     }
     # Encerramento & Sorteios
