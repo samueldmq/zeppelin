@@ -58,29 +58,35 @@ tempestade perfeita.
   speakers: [4, 5]
 -
   id: 003
-  title: "Federação de identidades no OpenStack"
-  description: "A habilidade de autenticar usuários externos em uma cloud era uma funcionalidade muito requisitada para o OpenStack. Nessa talk, iremos discutir a federacão de identidade e como foi resolvida no ambiente do OpenStack: usuários que estão armazenados em uma base de dados externa podem ser autenticados para acessarem os recursos da cloud."
+  title: "OpenStack na UFCG: pesquisa, desenvolvimento e operação"
+  place: ""
+  description: "Desde 2013, em parceria com HP, o LSD participa ativamente na comunidade OpenStack. De acordo com <a href=\"http://stackalytics.com\">http://stackalytics.com</a>, a UFCG/LSD está ocupando o 29º lugar em contribuições, com 113.523 linhas de código desde então. Levando em consideração o tipo de ambiente adequado para que seja possível usar as soluções que desenvolvemos antes de disponibilizar para a comunidade, bem como prover o serviço em si para diversos ambientes, incluindo o nosso laboratório, a equipe de operação vem elaborando algumas estruturas de cloud de produção e de testes, onde é possível amadurecer nossa experiência com o OpenStack. Nesta conversa LSD nós vamos apresentar o progresso de nossa experiência com OpenStack na infraestrutura do laboratório até seu ambiente de produção mais atual (Cloud 4), e expor um conjunto de boas práticas de uso para um cliente em geral."
 -
   id: 004
-  speakers: [10]
+  speakers: [3, 6, 7]
 -
   id: 005
-  title: "Ironic - Máquina física as a Service"
-  description: "Fornecer máquina física diretamente para usuários da nuvem. Pra quê? #ComoFaz? Ironic é o módulo do OpenStack responsável por fazer máquinas físicas serem entregues para usuários finais seguindo "a mesma" experiência de uso que máquinas virtuais. Nesta palestra explicarei como ele funciona, como se encaixa no ambiente OpenStack, e do que ele é capaz."
+  title: "OpenStack em Natal: cases e experiências de uma startup"
+  place: ""
+  description: "Atualmente a Anolis TI mantém um serviço de nuvem chamado cncCloud. O cncCloud tem por objetivo ser uma nuvem de armazenamento para atender a universidades e institutos de pesquisa ligados a Rede Nacional de Pesquisas (RNP). Para isto, utliza o OpenStack como base desta nuvem, agregando um case de sucesso no uso desta tecnologia em um ambiente de produção. Atualmente vem trabalhando em outros ambientes incluindo uma plataforma para comportar inicialmente 10.000 usuários escaláveis em mais 10.0000 por ano para a CAPES.
+<br><br>
+Além disso, esteve envolvida em diversos projetos de pesquisa usando a tecnologia, um deles ocorreu em parceria com a Universidade of Kent (em contato com Dr. David Chadwick) para o desenvolvimento de uma versão do Keystone com suporte a federação de identidades.
+Também atua como parceiro na iniciativa de cidades inteligentes junto a UFRN e está responsável por criar e manter a plataforma Fiware de produção do projeto.
+A apresentação tem por objetivo relatar estas experiências de forma a compartilhar desafios, soluções e perspectivas do uso da plataforma OpenStack  em nossos projetos."
 -
   id: 006
-  speakers: [15]
+  speakers: [9]
 -
   id: 201
   title: "Almoço - Restaurante do Praiamar Hotel"
   service: true
 -
   id: 007
-  title: "OpenStack na UFCG: pesquisa, desenvolvimento e operação"
-  description: "Desde 2013, em parceria com HP, o LSD participa ativamente na comunidade OpenStack. De acordo com <a href=\"http://stackalytics.com\">http://stackalytics.com</a>, a UFCG/LSD está ocupando o 29º lugar em contribuições, com 113.523 linhas de código desde então. Levando em consideração o tipo de ambiente adequado para que seja possível usar as soluções que desenvolvemos antes de disponibilizar para a comunidade, bem como prover o serviço em si para diversos ambientes, incluindo o nosso laboratório, a equipe de operação vem elaborando algumas estruturas de cloud de produção e de testes, onde é possível amadurecer nossa experiência com o OpenStack. Nesta conversa LSD nós vamos apresentar o progresso de nossa experiência com OpenStack na infraestrutura do laboratório até seu ambiente de produção mais atual (Cloud 4), e expor um conjunto de boas práticas de uso para um cliente em geral."
+  title: "Processamento de Dados na Nuvem com Sahara"
+  description: "O processamento de dados na nuvem tem crescido nos últimos anos e o Sahara facilita a criação de clusters Hadoop, Spark e Storm. Com ele é possível a criação de clusters para processamento de dados em poucos passos, assim como submeter tarefas para processamento. Nessa apresentação vou apresentar o componente Sahara, sua arquitetura, seus benefícios e roadmap."
 -
   id: 008
-  speakers: [3, 6, 7]
+  speakers: [8]
 -
   id: 009
   title: "Monitoramento online de métricas de desempenho no Openstack"
@@ -90,33 +96,36 @@ tempestade perfeita.
   speakers: [11]
 -
   id: 011
-  title: "Processamento de Dados na Nuvem com Sahara"
-  description: "O processamento de dados na nuvem tem crescido nos últimos anos e o Sahara facilita a criação de clusters Hadoop, Spark e Storm. Com ele é possível a criação de clusters para processamento de dados em poucos passos, assim como submeter tarefas para processamento. Nessa apresentação vou apresentar o componente Sahara, sua arquitetura, seus benefícios e roadmap."
+  title: "Federação de identidades no OpenStack"
+  description: "A habilidade de autenticar usuários externos em uma cloud era uma funcionalidade muito requisitada para o OpenStack. Nessa talk, iremos discutir a federacão de identidade e como foi resolvida no ambiente do OpenStack: usuários que estão armazenados em uma base de dados externa podem ser autenticados para acessarem os recursos da cloud."
+  speakers: []
 -
   id: 012
-  speakers: [8]
--
-  id: 202
-  title: "Café"
-  service: true
+  speakers: [10]
+  # title: "Polymer: Interacting with Google Services using nothing but HTML"
+  # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  # subtype: keynote
+  # speakers: [6]
+  # language: uk
+  # complexity: "Beginner"
+  # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 013
-  title: "OpenStack em Natal: cases e experiências de uma startup"
-  description: "Atualmente a Anolis TI mantém um serviço de nuvem chamado cncCloud. O cncCloud tem por objetivo ser uma nuvem de armazenamento para atender a universidades e institutos de pesquisa ligados a Rede Nacional de Pesquisas (RNP). Para isto, utliza o OpenStack como base desta nuvem, agregando um case de sucesso no uso desta tecnologia em um ambiente de produção. Atualmente vem trabalhando em outros ambientes incluindo uma plataforma para comportar inicialmente 10.000 usuários escaláveis em mais 10.0000 por ano para a CAPES.
-<br><br>
-Além disso, esteve envolvida em diversos projetos de pesquisa usando a tecnologia, um deles ocorreu em parceria com a Universidade of Kent (em contato com Dr. David Chadwick) para o desenvolvimento de uma versão do Keystone com suporte a federação de identidades.
-Também atua como parceiro na iniciativa de cidades inteligentes junto a UFRN e está responsável por criar e manter a plataforma Fiware de produção do projeto.
-A apresentação tem por objetivo relatar estas experiências de forma a compartilhar desafios, soluções e perspectivas do uso da plataforma OpenStack  em nossos projetos."
+  title: ""
+  description: ""
+  speakers: []
 -
   id: 014
-  speakers: [9]
+  speakers: []
 -
   id: 015
-  title: "Keystone: O serviço de identidade do OpenStack"
-  description: "O Keystone é um dos serviços mais importantes do Openstack, responsável por prover autenticação entre outros serviços da cloud e autorização para o usuário. Utilizando um modelo de tokens, esse serviço de identidade faz com que operadores tenham controle de quem está acessando a cloud e o quê cada usuário pode acessar. Nessa palestra, você irá aprender mais sobre o Keystone, com destaque tanto para as funcionalidades básicas, quanto para as funcionalidades que foram implementadas nas últimas releases."
+  title: ""
+  description: ""
+  speakers: []
 -
   id: 016
-  speakers: [12, 13, 14]
+  speakers: []
 -
   id: 203
   title: "Encerramento - Agradecimentos, Formulários de Avaliação e Sorteios"
