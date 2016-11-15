@@ -111,6 +111,10 @@ A apresentação tem por objetivo relatar estas experiências de forma a compart
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
+  id: 202
+  title: "Café"
+  service: true
+-
   id: 013
   title: ""
   description: ""
