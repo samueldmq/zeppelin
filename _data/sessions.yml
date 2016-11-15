@@ -1,7 +1,6 @@
 -
   id: 101
   title: "Abertura - A Comunidade OpenStack"
-  place: ""
   description: "<br>OpenStack é uma das comunidades de código aberto que mais cresce no mundo.
 São mais de 60 mil pessoas em 631 companhias distribuídas por 186 países
 colaborando nas suas mais de 20 milhões de linhas de código.<br><br>
@@ -16,7 +15,6 @@ diversas organizações utilizando OpenStack no país.
 -
   id: 001
   title: "Keynote: O papel do OpenStack na Transformação Digital das Telcos"
-  place: ""
   description: '<br>Tradicionais, lentas e desajeitadas. É desta maneira que muitas telcos são
 vistas e descritas quando avaliadas à luz da sua capacidade em adotar
 novas tecnologias e gerar novos negócios para além da rede tradicional.
@@ -59,7 +57,6 @@ tempestade perfeita.
 -
   id: 003
   title: "Federação de identidades no OpenStack"
-  place: ""
   description: "A habilidade de autenticar usuários externos em uma cloud era uma funcionalidade muito requisitada para o OpenStack. Nessa talk, iremos discutir a federacão de identidade e como foi resolvida no ambiente do OpenStack: usuários que estão armazenados em uma base de dados externa podem ser autenticados para acessarem os recursos da cloud."
 -
   id: 004
@@ -67,7 +64,6 @@ tempestade perfeita.
 -
   id: 005
   title: "Ironic - Máquina física as a Service"
-  place: ""
   description: "Fornecer máquina física diretamente para usuários da nuvem. Pra quê? #ComoFaz? Ironic é o módulo do OpenStack responsável por fazer máquinas físicas serem entregues para usuários finais seguindo 'a mesma' experiência de uso que máquinas virtuais. Nesta palestra explicarei como ele funciona, como se encaixa no ambiente OpenStack, e do que ele é capaz."
 -
   id: 006
@@ -94,18 +90,9 @@ tempestade perfeita.
   id: 011
   title: "Processamento de Dados na Nuvem com Sahara"
   description: "O processamento de dados na nuvem tem crescido nos últimos anos e o Sahara facilita a criação de clusters Hadoop, Spark e Storm. Com ele é possível a criação de clusters para processamento de dados em poucos passos, assim como submeter tarefas para processamento. Nessa apresentação vou apresentar o componente Sahara, sua arquitetura, seus benefícios e roadmap."
-  speakers: []
 -
   id: 012
   speakers: [8]
-  # title: "Polymer: Interacting with Google Services using nothing but HTML"
-  # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  # subtype: keynote
-  # speakers: [6]
-  # language: uk
-  # complexity: "Beginner"
-  # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 202
   title: "Café"
@@ -118,15 +105,13 @@ tempestade perfeita.
       Além disso, esteve envolvida em diversos projetos de pesquisa usando a tecnologia, um deles ocorreu em parceria com a Universidade of Kent (em contato com Dr. David Chadwick) para o desenvolvimento de uma versão do Keystone com suporte a federação de identidades.
       Também atua como parceiro na iniciativa de cidades inteligentes junto a UFRN e está responsável por criar e manter a plataforma Fiware de produção do projeto.
       A apresentação tem por objetivo relatar estas experiências de forma a compartilhar desafios, soluções e perspectivas do uso da plataforma OpenStack  em nossos projetos."
-  speakers: []
 -
   id: 014
   speakers: [9]
 -
   id: 015
-  title: ""
-  description: ""
-  speakers: []
+  title: "Keystone: O serviço de identidade do OpenStack"
+  description: "O Keystone é um dos serviços mais importantes do Openstack, responsável por prover autenticação entre outros serviços da cloud e autorização para o usuário. Utilizando um modelo de tokens, esse serviço de identidade faz com que operadores tenham controle de quem está acessando a cloud e o quê cada usuário pode acessar. Nessa palestra, você irá aprender mais sobre o Keystone, com destaque tanto para as funcionalidades básicas, quanto para as funcionalidades que foram implementadas nas últimas releases."
 -
   id: 016
   speakers: [12, 13, 14]
