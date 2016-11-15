@@ -33,53 +33,53 @@
     - {
         startTime: "12:15",
         endTime: "13:30",
-        sessionIds: [007]
+        sessionIds: [201]
     }
     # ufcg
     - {
         startTime: "13:30",
         endTime: "14:10",
-        sessionIds: [008, 009]
+        sessionIds: [007, 008]
     }
     # IFPB
     - {
         startTime: "14:15",
         endTime: "14:55",
-        sessionIds: [010, 011]
+        sessionIds: [009, 010]
     }
     # Sahara
     - {
         startTime: "15:00",
         endTime: "15:40",
-        sessionIds: [012, 013]
+        sessionIds: [011, 012]
     }
     # cafe
     - {
         startTime: "15:40",
         endTime: "16:00",
-        sessionIds: [014]
+        sessionIds: [202]
     }
     # AnolisTI
     - {
         startTime: "16:00",
         endTime: "16:40",
-        sessionIds: [015, 016]
+        sessionIds: [013, 014]
     }
     # Keystone
     - {
         startTime: "16:45",
         endTime: "17:25",
-        sessionIds: [017, 018]
+        sessionIds: [015, 016]
     }
     # Encerramento & Sorteios
     - {
         startTime: "17:10",
         endTime: "17:30",
-        sessionIds: [019]
+        sessionIds: [203]
     }
     # Evento
     - {
         startTime: "17:30",
         endTime: "18:20",
-        sessionIds: [020]
+        sessionIds: [204]
     }

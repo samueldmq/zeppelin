@@ -77,30 +77,30 @@ A apresentação tem por objetivo relatar estas experiências de forma a compart
   id: 006
   speakers: [9]
 -
-  id: 007
+  id: 201
   title: "Almoço - Restaurante do Praiamar Hotel"
   service: true
 -
-  id: 009
+  id: 007
   title: "Processamento de Dados na Nuvem com Sahara"
   description: "O processamento de dados na nuvem tem crescido nos últimos anos e o Sahara facilita a criação de clusters Hadoop, Spark e Storm. Com ele é possível a criação de clusters para processamento de dados em poucos passos, assim como submeter tarefas para processamento. Nessa apresentação vou apresentar o componente Sahara, sua arquitetura, seus benefícios e roadmap."
 -
-  id: 010
+  id: 008
   speakers: [8]
 -
-  id: 011
+  id: 009
   title: "Monitoramento online de métricas de desempenho no Openstack"
   description: "O monitoramento de métricas de desempenho, como tráfego de rede, CPU e memória, é importante para o provimento de serviços. Esse tipo de informação é utilizada para alocação de recursos, investimentos em infraestrutura e planejamento da elasticidade dos serviços para atender a demandas, entre outros processos decisórios em um negócio. O monitoramento é realizado pelos provedores ou clientes dos serviços. O Openstack provê um serviço de infraestrutura que permite a execução de máquinas virtuais (VMs) que podem executar qualquer tipo de serviço. Os clientes do Openstack podem ser provedores de outros serviços. Logo, podem existir vários provedores de serviços utilizando o mesmo conjunto de recursos físicos gerenciados pelo Openstack. Esta palestra discute como realizar coleta e monitoramento de métricas de desempenho e como isso pode ser feito no Openstack."
 -
-  id: 012
+  id: 010
   speakers: [11]
 -
-  id: 013
+  id: 011
   title: "Federação de identidades no OpenStack"
   description: "A habilidade de autenticar usuários externos em uma cloud era uma funcionalidade muito requisitada para o OpenStack. Nessa talk, iremos discutir a federacão de identidade e como foi resolvida no ambiente do OpenStack: usuários que estão armazenados em uma base de dados externa podem ser autenticados para acessarem os recursos da cloud."
   speakers: []
 -
-  id: 014
+  id: 012
   speakers: [10]
   # title: "Polymer: Interacting with Google Services using nothing but HTML"
   # description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
@@ -111,18 +111,26 @@ A apresentação tem por objetivo relatar estas experiências de forma a compart
   # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 017
-  title: "Palestra - A definir"
+  id: 013
+  title: ""
   description: ""
   speakers: []
 -
-  id: 018
+  id: 014
   speakers: []
 -
-  id: 019
+  id: 015
+  title: ""
+  description: ""
+  speakers: []
+-
+  id: 016
+  speakers: []
+-
+  id: 203
   title: "Encerramento - Agradecimentos, Formulários de Avaliação e Sorteios"
   service: true
 -
-  id: 020
+  id: 204
   title: "Coffee Break & Networking"
   service: true
