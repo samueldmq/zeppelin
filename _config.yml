@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Chamada de Apresentações"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Chamada de Apresentações"}
+# - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Chamada de Apresentações"}
 
 # Hero Block
 heroImage: "hero01.jpeg"
