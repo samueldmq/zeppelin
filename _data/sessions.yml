@@ -56,11 +56,11 @@ tempestade perfeita.
   speakers: [4, 5]
 -
   id: 003
-  title: "Federação de identidades no OpenStack"
-  description: "A habilidade de autenticar usuários externos em uma cloud era uma funcionalidade muito requisitada para o OpenStack. Nessa talk, iremos discutir a federacão de identidade e como foi resolvida no ambiente do OpenStack: usuários que estão armazenados em uma base de dados externa podem ser autenticados para acessarem os recursos da cloud."
+  title: "OpenStack na UFCG: pesquisa, desenvolvimento e operação"
+  description: "Desde 2013, em parceria com HP, o LSD participa ativamente na comunidade OpenStack. De acordo com <a href=\"http://stackalytics.com\">http://stackalytics.com</a>, a UFCG/LSD está ocupando o 29º lugar em contribuições, com 113.523 linhas de código desde então. Levando em consideração o tipo de ambiente adequado para que seja possível usar as soluções que desenvolvemos antes de disponibilizar para a comunidade, bem como prover o serviço em si para diversos ambientes, incluindo o nosso laboratório, a equipe de operação vem elaborando algumas estruturas de cloud de produção e de testes, onde é possível amadurecer nossa experiência com o OpenStack. Nesta conversa LSD nós vamos apresentar o progresso de nossa experiência com OpenStack na infraestrutura do laboratório até seu ambiente de produção mais atual (Cloud 4), e expor um conjunto de boas práticas de uso para um cliente em geral."
 -
   id: 004
-  speakers: [10]
+  speakers: [3, 7, 6]
 -
   id: 005
   title: "Ironic - Máquina física as a Service"
@@ -74,11 +74,11 @@ tempestade perfeita.
   service: true
 -
   id: 007
-  title: "OpenStack na UFCG: pesquisa, desenvolvimento e operação"
-  description: "Desde 2013, em parceria com HP, o LSD participa ativamente na comunidade OpenStack. De acordo com <a href=\"http://stackalytics.com\">http://stackalytics.com</a>, a UFCG/LSD está ocupando o 29º lugar em contribuições, com 113.523 linhas de código desde então. Levando em consideração o tipo de ambiente adequado para que seja possível usar as soluções que desenvolvemos antes de disponibilizar para a comunidade, bem como prover o serviço em si para diversos ambientes, incluindo o nosso laboratório, a equipe de operação vem elaborando algumas estruturas de cloud de produção e de testes, onde é possível amadurecer nossa experiência com o OpenStack. Nesta conversa LSD nós vamos apresentar o progresso de nossa experiência com OpenStack na infraestrutura do laboratório até seu ambiente de produção mais atual (Cloud 4), e expor um conjunto de boas práticas de uso para um cliente em geral."
+  title: "Federação de identidades no OpenStack"
+  description: "A habilidade de autenticar usuários externos em uma cloud era uma funcionalidade muito requisitada para o OpenStack. Nessa talk, iremos discutir a federacão de identidade e como foi resolvida no ambiente do OpenStack: usuários que estão armazenados em uma base de dados externa podem ser autenticados para acessarem os recursos da cloud."
 -
   id: 008
-  speakers: [3, 6, 7]
+  speakers: [10]
 -
   id: 009
   title: "Monitoramento online de métricas de desempenho no Openstack"

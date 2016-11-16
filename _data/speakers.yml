@@ -86,15 +86,15 @@
  thumbnailUrl: raildo.jpg
 -
  id: 14
- name: "Paulo"
- surname: ""
+ name: "Paulo Ewerton"
+ surname: "Gomes Fragoso"
  company: "UFCG"
- bio: ""
- thumbnailUrl: none.png
+ bio: "Atua como engenheiro de software no LSD/UFCG. Nos últimos dois anos tem contribuído para os projetos Keystone e Horizon do OpenStack."
+ thumbnailUrl: paulo.jpg
 -
  id: 15
  name: "Gabriel"
  surname: "Bezerra"
  company: "UFCG"
- bio: ""
+ bio: "OpenStack ops 2013, OpenStack dev 2014-2016. Trabalhando com Ironic since Jan-2015."
  thumbnailUrl: none.png
