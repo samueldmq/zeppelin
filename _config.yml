@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/equipe/", text: "Equipe"}
  - {permalink: "/local/", text: "Local"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Chamada de Apresentações"}
+# - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Chamada de Apresentações"}
 rightNavigationButtons:
  - {link: "https://goo.gl/forms/NxnHIPfpFHidOEb92", text: "Chamada de Apresentações"}
 

@@ -29,13 +29,5 @@ __Relatos de experiências__
 
 __Planos de utilização__
 
-
-##### Por favor submeta suas palestras neste [link](https://goo.gl/forms/NxnHIPfpFHidOEb92).
-__Prazo final para submissão__ é 02 de Novembro de 2016.
-
-__Nota:__ A submissão pode ser estendida até 06 de Novembro caso a organização
-ache necessário. O resultado das palestras aceitas está previsto para 3 dias
-após o prazo final de submissão.
-
 ##### Dúvidas?
 Entre em contato com os organizadores através do e-mail [openstackdaysnatal@gmail.com.](mailto:openstackdaysnatal@gmail.com.)
