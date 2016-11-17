@@ -1,4 +1,8 @@
 -
+  id: 300
+  title: "Registro"
+  service: true
+-
   id: 101
   title: "Abertura - A Comunidade OpenStack"
   description: "<br>OpenStack é uma das comunidades de código aberto que mais cresce no mundo.

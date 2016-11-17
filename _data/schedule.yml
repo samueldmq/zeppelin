@@ -5,6 +5,12 @@
     - {title: "Palestras", color: "#90be4e"}
     - {title: "Palestrantes", color: "#03a9f4"}
   timeslots:
+    # registros
+    - {
+        startTime: "08:30",
+        endTime: "09:30",
+        sessionIds: [300]
+    }
     #abertura
     - {
         startTime: "09:30",
