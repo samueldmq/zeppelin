@@ -6,7 +6,3 @@
   group: "Helder"
   elements:
     - {name: "Helder ", description: "", link: "", imageUrl: "helder.jpg"}
--
-  group: "Mariana Souto"
-  elements:
-    - {name: "Mariana Souto", description: "", link: "", imageUrl: "mariana.jpg"}
