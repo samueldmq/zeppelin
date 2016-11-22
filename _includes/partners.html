@@ -56,6 +56,19 @@
                      {% endfor %}
                 </div>
                 {% endfor %}
+                {% for staff in site.data.staff3 %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">
+                    <h6>{{ staff.group }} </h6>
+                    {% for element in staff.elements %}
+                    <a href="{{ site.baseurl }}/equipe/" target="_blank">
+                        <img class="img-circle" style="width: 11%;" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}"
+                        alt="{{ element.name }}">
+                    </a>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+
             </div>
             <h3>{{ site.partnersTitle }}</h3>
 

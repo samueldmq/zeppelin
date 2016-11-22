@@ -111,6 +111,15 @@ OpenStack desde 2014 e é membro do núcleo do time Puppet OpenStack. Suas contr
   surname: "Ronyer"
   title: "Staff"
   company: "Laboratório de Sistemas Distribuídos (LSD) - UFCG"
-  bio: "Helder é graduando em Ciência da Computação na UFCG, trbalha no projeto PrivIoT no LSD"
+  bio: "Helder é graduando em Ciência da Computação na UFCG, trabalha no projeto PrivIoT no LSD"
   thumbnailUrl: helder.jpg
+  team: true
+-
+  id: 12
+  name: "Renata"
+  surname: "Fitarelli"
+  title: "Staff"
+  company: "Universidade Federal de Campina Grande"
+  bio: "Renata é graduanda em Engenharia de Petróleo na UFCG e gosta de estudar programação nas horas vagas."
+  thumbnailUrl: renata.jpg
   team: true

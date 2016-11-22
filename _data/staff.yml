@@ -9,4 +9,4 @@
 -
   group: "Caio Batista"
   elements:
-    - {name: "", description: "", link: "", imageUrl: "caio.jpg"}
+    - {name: "Caio Batista", description: "", link: "", imageUrl: "caio.jpg"}
